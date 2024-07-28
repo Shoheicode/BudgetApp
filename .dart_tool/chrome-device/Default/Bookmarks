@@ -1,0 +1,1010 @@
+{
+   "checksum": "aad3257df75784ac8c00574a36aa128c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13306138956300788",
+            "date_last_used": "0",
+            "guid": "4ca00cd9-b172-4e6d-8f17-9470d21dbc6a",
+            "id": "51",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "children": [ {
+               "date_added": "13288134585903731",
+               "date_last_used": "0",
+               "guid": "3631d318-e98a-4055-af3b-55c8d9619970",
+               "id": "70",
+               "name": "Login",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://apply.berkeley.edu/account/login?r=https%3a%2f%2fapply.berkeley.edu%2fapply%2fstatus"
+            }, {
+               "date_added": "13288134652869318",
+               "date_last_used": "0",
+               "guid": "22be9d54-1019-4550-af0b-b24d575b9103",
+               "id": "71",
+               "name": "Fall 2022 First Year Status Portal",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://beatriton.ucsd.edu/apply/status"
+            }, {
+               "date_added": "13288715912047586",
+               "date_last_used": "0",
+               "guid": "a2bf9734-63fb-4745-9d13-868ebbd04f92",
+               "id": "72",
+               "name": "UC application",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://apply.universityofcalifornia.edu/my-application/login"
+            }, {
+               "date_added": "13288822421580106",
+               "date_last_used": "0",
+               "guid": "34639aa9-5ee8-4fce-a703-50f9ab4e9c24",
+               "id": "73",
+               "name": "Applicant Portal | Office of Undergraduate Admissions | UCI",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://admissions.uci.edu/apply/applicant-portal.php?utm_campaign=f22applicant&utm_source=activateportal&utm_medium=email"
+            }, {
+               "date_added": "13288822513738967",
+               "date_last_used": "0",
+               "guid": "e282d3d4-cbd5-4c7c-901a-152e21b6ca3f",
+               "id": "74",
+               "name": "UCLA myApplication Status",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://bruins.admission.ucla.edu/myApplication/Status.aspx"
+            }, {
+               "date_added": "13289456481623230",
+               "date_last_used": "0",
+               "guid": "66487e0e-97b0-4434-a5c7-83794976c8db",
+               "id": "75",
+               "name": "UC Santa Barbara Admissions Portal - UC Santa Barbara Applicant Portal Login",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://admissions.sa.ucsb.edu/applicantportal/Auth/Login"
+            }, {
+               "date_added": "13288134656006488",
+               "date_last_used": "0",
+               "guid": "dc7ed591-41c7-484f-9d47-fa0fd8521206",
+               "id": "76",
+               "name": "Login",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://beatriton.ucsd.edu/account/login?r=https%3a%2f%2fbeatriton.ucsd.edu%2fapply%2fstatus"
+            } ],
+            "date_added": "13346110080013009",
+            "date_last_used": "0",
+            "date_modified": "13346110080013009",
+            "guid": "c9aa2f8f-0060-4324-a047-48c12dd06143",
+            "id": "69",
+            "name": "UC APPS",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13295856525820460",
+               "date_last_used": "0",
+               "guid": "542267df-f234-469a-be7c-223297b0cd55",
+               "id": "78",
+               "name": "Elcamino signin",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://signon.elcamino.edu/adfs/ls/idpinitiatedsignon/?wa=wsignin1.0&wtrealm=urn%3amyecc.elcamino.edu%3a443&wctx=https%3a%2f%2fmyecc.elcamino.edu%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3d%252F&wreply=https%3a%2f%2fmyecc.elcamino.edu%2f_trust%2fdefault.aspx"
+            }, {
+               "date_added": "13299894774447986",
+               "date_last_used": "0",
+               "guid": "61379f81-f33a-42e7-839a-7925b47fba0e",
+               "id": "79",
+               "name": "Canvas Resources | El Camino College | Torrance, CA",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.elcamino.edu/academics/online-education/canvas-students.aspx"
+            }, {
+               "date_added": "13294903673632575",
+               "date_last_used": "0",
+               "guid": "ea1cef7b-0cd1-4a84-a6b1-a4d378a14078",
+               "id": "80",
+               "name": "Mail - Irie Jason - Outlook",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://outlook.office.com/mail/"
+            }, {
+               "date_added": "13297235999662894",
+               "date_last_used": "0",
+               "guid": "31cebbc7-f218-428d-893b-568f6d20d1a5",
+               "id": "81",
+               "name": "Service Catalog | ECC Connect",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://elcamino.starfishsolutions.com/starfish-ops/instructor/serviceCatalog.html#/"
+            }, {
+               "date_added": "13300599443001632",
+               "date_last_used": "0",
+               "guid": "99074af2-0320-4f79-9a78-90419103a105",
+               "id": "116",
+               "name": "data-8.github.io",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://data8.org/"
+            }, {
+               "children": [ {
+                  "date_added": "13306139216640881",
+                  "date_last_used": "0",
+                  "guid": "f5990130-b008-46ba-a6f6-c19e1db97747",
+                  "id": "118",
+                  "name": "US HISTORY TEXTBOOK ELCO",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://assets.openstax.org/oscms-prodcms/media/documents/USHistory-WEB.pdf"
+               }, {
+                  "date_added": "13306139576228920",
+                  "date_last_used": "0",
+                  "guid": "c4cab7c6-851f-46d0-8353-bc7e8881a32f",
+                  "id": "119",
+                  "name": "Lahiri-Interpreter of Maladies",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "file:///C:/Users/Kepler004599/Downloads/lahiri-interpreter-of-maladies-full-text.pdf"
+               }, {
+                  "date_added": "13306142326187239",
+                  "date_last_used": "0",
+                  "guid": "bd6945ee-0a7c-4e04-a782-6e0db1035545",
+                  "id": "120",
+                  "name": "Rules for Writers",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "file:///C:/Users/Kepler004599/Downloads/Hacker,%20Diana_%20Huster,%20Kimberli_%20Sommers,%20Nancy%20I%20-%20Rules%20for%20Writers-Bedford_St.%20Martin's_%20Macmillan%20Higher%20Education%20(2019).pdf"
+               }, {
+                  "date_added": "13306260260884780",
+                  "date_last_used": "0",
+                  "guid": "5a48b9de-7d69-447f-b091-38cf3f79654a",
+                  "id": "121",
+                  "name": "Calculus Volume 2",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://assets.openstax.org/oscms-prodcms/media/documents/CalculusVolume2-OP.pdf"
+               }, {
+                  "date_added": "13302051935733420",
+                  "date_last_used": "0",
+                  "guid": "c7f61bc6-6753-4559-9859-ef5af0063b2f",
+                  "id": "122",
+                  "name": "books",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "http://bookstore.elcamino.edu/home.aspx"
+               }, {
+                  "date_added": "13306268622835202",
+                  "date_last_used": "0",
+                  "guid": "d923de7f-e10f-4205-a49f-ec08b9d5c263",
+                  "id": "123",
+                  "name": "University Physics with Modern Physics (2-downloads)",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://physica.cloud/ajab/uploads/2018/10/Hugh-D.-Young-Roger-A.-Freedman-A.-Lewis-Ford-University-Physics-with-Modern-Physics-with-MasteringPhysics%C2%AE-13th-Edition-Addison-Wesley-2011.pdf"
+               }, {
+                  "date_added": "13306301523653507",
+                  "date_last_used": "0",
+                  "guid": "51c9cd04-99f3-403e-8955-b9fd928b7137",
+                  "id": "124",
+                  "name": "Pearson Sign In",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://login.pearson.com/v1/piapi/piui/signin?client_id=dN4bOBG0sGO9c9HADrifwQeqma5vjREy&okurl=https:%2F%2Fportal.mypearson.com%2Fcourse-home&siteid=8313"
+               } ],
+               "date_added": "13346110080022813",
+               "date_last_used": "0",
+               "date_modified": "13346110080022813",
+               "guid": "fe9223d2-2748-417f-b82f-2f7f7f5a0dac",
+               "id": "117",
+               "name": "ElCAMINO BOOKS",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "date_added": "13308110582830721",
+               "date_last_used": "0",
+               "guid": "3b395c65-601f-4c3b-94e7-6bc5659362b2",
+               "id": "125",
+               "name": "Lahiri Jhumpa Interpreter Of Maladies : Free Download, Borrow, and Streaming : Internet Archive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://archive.org/details/LahiriJhumpaInterpreterOfMaladies/page/n13/mode/2up"
+            }, {
+               "date_added": "13313797439702216",
+               "date_last_used": "0",
+               "guid": "951830de-1793-4fb1-a9f0-3682b7363254",
+               "id": "126",
+               "name": "Secure Checkout | Coursera",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.coursera.org/payments/checkout?cartId=270865127"
+            } ],
+            "date_added": "13346110080014289",
+            "date_last_used": "0",
+            "date_modified": "13346110080014289",
+            "guid": "50037594-9050-43ff-8c65-676aef5e4d94",
+            "id": "77",
+            "name": "elcamino",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13277200568556721",
+               "date_last_used": "0",
+               "guid": "a71d3d7b-3187-47a0-a595-280e37c37ff1",
+               "id": "128",
+               "name": "PANEL POP AI",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://github.com/a544jh/panel-pop"
+            }, {
+               "date_added": "13259486711763672",
+               "date_last_used": "0",
+               "guid": "01c806c0-bce2-4091-bac2-4ec2364e48c3",
+               "id": "129",
+               "name": "CodingBat Java",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://codingbat.com/java"
+            }, {
+               "date_added": "13296847582298360",
+               "date_last_used": "0",
+               "guid": "361d471d-e7cc-4f7b-90a1-a791f83d74fd",
+               "id": "130",
+               "name": "Network Programming Python - HTTP Server - GeeksforGeeks",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.geeksforgeeks.org/network-programming-python-http-server/"
+            }, {
+               "date_added": "13296847595735708",
+               "date_last_used": "0",
+               "guid": "1dbe979a-96f9-44eb-b526-3b978da38e26",
+               "id": "131",
+               "name": "Python - Web Servers",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.tutorialspoint.com/python_network_programming/python_web_servers.htm"
+            }, {
+               "date_added": "13296850329993323",
+               "date_last_used": "0",
+               "guid": "a10dc7f2-8f6b-4b4b-9d01-b113a9de0cc1",
+               "id": "132",
+               "name": "How To Make A Simple Python Web Server - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=vyCboBjK4us"
+            }, {
+               "date_added": "13296850342241287",
+               "date_last_used": "0",
+               "guid": "5616d830-2806-4f04-a3d0-22f6b5b8a44f",
+               "id": "133",
+               "name": "Deep Neural net with forward and back propagation from scratch - Python - GeeksforGeeks",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.geeksforgeeks.org/deep-neural-net-with-forward-and-back-propagation-from-scratch-python/?ref=rp"
+            }, {
+               "date_added": "13296850353207553",
+               "date_last_used": "0",
+               "guid": "78d8a022-8a40-4474-9471-db9f51ac7fbe",
+               "id": "134",
+               "name": "(1) Python Socket Programming Tutorial - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=3QiPPX-KeSc"
+            }, {
+               "date_added": "13296936924433506",
+               "date_last_used": "0",
+               "guid": "c2a49e44-395f-48ea-bfdc-621de3319ed7",
+               "id": "135",
+               "name": "Simple HTTP Server in Python - YouTube",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=DeFST8tvtuI"
+            }, {
+               "date_added": "13297818928665228",
+               "date_last_used": "0",
+               "guid": "932143a3-53e2-4e4d-b888-7cc68af5b1e1",
+               "id": "136",
+               "name": "Automation of Assignment Submisison",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://gist.github.com/WillKoehrsen/127fb3963b12b4f0b339ff0c8ee14558"
+            }, {
+               "date_added": "13297829127007483",
+               "date_last_used": "0",
+               "guid": "9f078663-3e91-44a4-bd34-1d2ee4acb079",
+               "id": "137",
+               "name": "Controlling the Web with Python. An adventure in simple web automation | by Will Koehrsen | Towards Data Science",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://towardsdatascience.com/controlling-the-web-with-python-6fceb22c5f08"
+            }, {
+               "date_added": "13298008436719279",
+               "date_last_used": "0",
+               "guid": "e2e78758-088a-4ec2-b9da-3e395443d99f",
+               "id": "138",
+               "name": "Creating Video Chat App using Python | by Gursimar Singh | Geek Culture | Medium",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://medium.com/geekculture/creating-video-chat-app-using-python-9da0a9c386ba"
+            }, {
+               "date_added": "13302136046233218",
+               "date_last_used": "0",
+               "guid": "06227b49-3659-4caa-a8f7-9a882e242c5a",
+               "id": "139",
+               "name": "Graphs in Java | Baeldung",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.baeldung.com/java-graphs"
+            }, {
+               "date_added": "13302855077885541",
+               "date_last_used": "0",
+               "guid": "b5323fc4-97c5-413c-b0f5-0a9dd6443736",
+               "id": "140",
+               "name": "Java Tetris game - creating Tetris game in Java",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://zetcode.com/javagames/tetris/"
+            }, {
+               "date_added": "13305876274732720",
+               "date_last_used": "0",
+               "guid": "980c609c-f045-49ae-bd9a-8404ba1965e8",
+               "id": "141",
+               "name": "Composing Programs",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://composingprograms.com/"
+            } ],
+            "date_added": "13346110080024403",
+            "date_last_used": "0",
+            "date_modified": "13346110080024403",
+            "guid": "772ffb16-8e36-43b3-9179-2bfd6a9ab916",
+            "id": "127",
+            "name": "IF BORED",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13365412738304305",
+               "date_last_used": "0",
+               "guid": "caeb2d75-1dc7-455c-9f7e-bf5fe7b19f2d",
+               "id": "185",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "RAPID-0 Onboarding Packet - Google Docs",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://docs.google.com/document/d/1GG8orWF2gHX_klP7cIMGTUIJxaq_AFLiGsgBKZcnvGE/edit"
+            }, {
+               "date_added": "13365572491848442",
+               "date_last_used": "13365743544854800",
+               "guid": "27b7ad30-ff72-4323-abd9-ac7ff58ba5fa",
+               "id": "193",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Teamspace Home",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.notion.so/bruinspace/Teamspace-Home-427b1d9ba00c43489c909652bb47191c"
+            }, {
+               "date_added": "13365572499741063",
+               "date_last_used": "0",
+               "guid": "c73e951c-ab7b-459c-ad5c-5dc68adaa2f3",
+               "id": "194",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Google Calendar - Week of July 14, 2024",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://calendar.google.com/calendar/u/0/r?cid=NzBldjZvaTVucG8zM2hua3AzanJlajM1ODhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"
+            }, {
+               "date_added": "13365576048016314",
+               "date_last_used": "13365576068540742",
+               "guid": "e561c7aa-80d1-49ab-be69-33da237eb9e9",
+               "id": "189",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "• Discord | rapid-general | Bruin Spacecraft Group",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://discord.com/channels/734162384268165150/734167946448076811"
+            }, {
+               "date_added": "13365575411096754",
+               "date_last_used": "0",
+               "guid": "039806ab-6eca-4063-92db-045d7940e5a3",
+               "id": "195",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Project Rapid - Google Drive",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://drive.google.com/drive/u/0/folders/0AJKlK9wgN5qkUk9PVA"
+            } ],
+            "date_added": "13365572476401397",
+            "date_last_used": "0",
+            "date_modified": "13365658136084606",
+            "guid": "9be4dbd7-0c74-49cb-b9c5-30358d4338ff",
+            "id": "192",
+            "name": "BruinSpace",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13301480487973395",
+            "date_last_used": "0",
+            "guid": "fd37f157-9882-4ccd-b51a-c9643e925434",
+            "id": "176",
+            "name": "Computational and Inferential Thinking: The Foundations of Data Science — Computational and Inferential Thinking",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://inferentialthinking.com/chapters/intro"
+         }, {
+            "date_added": "13300665006626065",
+            "date_last_used": "0",
+            "guid": "1acb3d13-fdb7-4129-ae8c-2c6513e8685f",
+            "id": "177",
+            "name": "Build Your Stax",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://buildyourstax.com/"
+         }, {
+            "date_added": "13301480671216605",
+            "date_last_used": "0",
+            "guid": "33516c0b-f54b-47c5-ae74-cf05035b5bd7",
+            "id": "178",
+            "name": "Niche",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.niche.com/account/dashboard/"
+         }, {
+            "date_added": "13321000275015005",
+            "date_last_used": "0",
+            "guid": "a29d01eb-be2c-48fe-84ca-8286a4cfa7a6",
+            "id": "179",
+            "name": "GitHub - kevin2107/COP-2510--Programming-Concepts-: Programming Concepts Course work",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/kevin2107/COP-2510--Programming-Concepts-"
+         }, {
+            "date_added": "13350521917252985",
+            "date_last_used": "0",
+            "guid": "0f185559-41ae-45c4-b19b-024f251c0564",
+            "id": "180",
+            "name": "Microsoft Teams",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://teams.microsoft.com/v2/"
+         }, {
+            "date_added": "13364610505332267",
+            "date_last_used": "0",
+            "guid": "47503fd2-0240-4951-81d3-fc177e3741ec",
+            "id": "181",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Engineering - UCLA Community",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://community.ucla.edu/studentorgs/engineering"
+         }, {
+            "date_added": "13364610509067584",
+            "date_last_used": "0",
+            "guid": "e10471c8-df70-41b4-9ee3-f2aebe88a859",
+            "id": "182",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Technology - UCLA Community",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://community.ucla.edu/studentorgs/technology"
+         }, {
+            "date_added": "13364613282543620",
+            "date_last_used": "0",
+            "guid": "481db79f-092d-4aaa-ad81-fe3c20278eca",
+            "id": "183",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Undergraduate Research Center—Sciences | Transfer Research Entry Program (TREP)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://sciences.ugresearch.ucla.edu/programs-and-scholarships/transfer-research-entry-program-2/"
+         }, {
+            "date_added": "13364955793585130",
+            "date_last_used": "0",
+            "guid": "343c7a45-a5f6-47f4-b994-c78bd9b3d106",
+            "id": "184",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "LA-Tech.org Fall 2024 Academy Resource Guide - Google Docs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1po_9i_3S0Mli-I4wTil1FR2wR5--Xq3lj85q2w4bjpc/edit"
+         }, {
+            "children": [ {
+               "date_added": "13365585907208816",
+               "date_last_used": "0",
+               "guid": "2784cd31-69a3-4cd8-aefe-0453c612eee6",
+               "id": "191",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "ucla.academicworks.com/users/internal_idp/auth?SAMLRequest=jZJdT8IwFIb%2Fyu56NTZgDGjYkgViQoLGgHrhDTl0h9DQtbOnFf33dhAj3qC3zfN%2B5D2dETSq5ZV3B73GN4%2FkoooIrZNGz40m36DdoH2XAp%2FXq4IdnGuJJ4kXCnogoMZGipOxR%2BoJ0yRSO7Qa1JbaRIBSOxBHFi2CrdTQef7p4EM4%2FfjIuk0gtGPRclGw7T4f1rvJZB9nYprH2bgPMYhpFqfDyQhxNO3XiAEl8rjU5EC7gg3SQQDGcT9%2FSnOeZXyUvrLoJcSc%2Bwx6KYs%2BGqWJd2MUzFvNDZAkrqFB4k7wTXW%2F4gHk8L3NtaS9rWmtcUYYxcpZR%2FNzO1v%2Bf8lZcq2bXU72EHKWi0ejpPiMKqXMaW4RHBbMWR82uDO2AXe7Wfci63h%2FRnnbLUIOtWNJecn8%2FTPKLw%3D%3D&RelayState=%2Fopportunities%2F69761%2Fapplications%2F735666",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://ucla.academicworks.com/users/internal_idp/auth?SAMLRequest=jZJdT8IwFIb%2Fyu56NTZgDGjYkgViQoLGgHrhDTl0h9DQtbOnFf33dhAj3qC3zfN%2B5D2dETSq5ZV3B73GN4%2FkoooIrZNGz40m36DdoH2XAp%2FXq4IdnGuJJ4kXCnogoMZGipOxR%2BoJ0yRSO7Qa1JbaRIBSOxBHFi2CrdTQef7p4EM4%2FfjIuk0gtGPRclGw7T4f1rvJZB9nYprH2bgPMYhpFqfDyQhxNO3XiAEl8rjU5EC7gg3SQQDGcT9%2FSnOeZXyUvrLoJcSc%2Bwx6KYs%2BGqWJd2MUzFvNDZAkrqFB4k7wTXW%2F4gHk8L3NtaS9rWmtcUYYxcpZR%2FNzO1v%2Bf8lZcq2bXU72EHKWi0ejpPiMKqXMaW4RHBbMWR82uDO2AXe7Wfci63h%2FRnnbLUIOtWNJecn8%2FTPKLw%3D%3D&RelayState=%2Fopportunities%2F69761%2Fapplications%2F735666"
+            } ],
+            "date_added": "13365585921899432",
+            "date_last_used": "0",
+            "date_modified": "13365585921899432",
+            "guid": "346c6890-d0eb-4dff-ad4a-a31d27721c16",
+            "id": "190",
+            "name": "UCLA",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13365552609941942",
+         "date_last_used": "0",
+         "date_modified": "13365576048016314",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13329622130050664",
+            "date_last_used": "0",
+            "guid": "b99ae355-b446-4a00-99ba-e292b23b3c04",
+            "id": "14",
+            "name": "Real-Time Object Detection in 10 Lines of Python on Jetson Nano | NVIDIA Technical Blog",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://developer.nvidia.com/blog/realtime-object-detection-in-10-lines-of-python-on-jetson-nano/"
+         }, {
+            "date_added": "13331454010519685",
+            "date_last_used": "0",
+            "guid": "c9082f44-e1dc-4088-8b61-8301a58fd336",
+            "id": "15",
+            "name": "Job Application for Factory Test Intern – Fall 2023 at Relativity",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://boards.greenhouse.io/relativity/jobs/6768672002?gh_jid=6768672002"
+         }, {
+            "date_added": "13331454840398303",
+            "date_last_used": "0",
+            "guid": "1f408715-e7a5-47f1-8783-54ce1012d4d3",
+            "id": "16",
+            "name": "Candidate Profile - Software Test Engineer Intern",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://careers-kdsda.icims.com/jobs/2288/software-test-engineer-intern/candidate?from=login&eem=6kexEiVDlhqKLe6VMLe%252BLlbJJjWlEOcTP9GY0zTgEzidWbNVve2C4QNEfw3RxYLd&code=5982016de871c852abe3c31104c8d9e4fbda1701cd1eef59cd5fc7b311cf848a&ga=383720b880fee7d81935b1f4acb9c0e30da5866baf6647e55b552ae324f2037d&eu_resident=1&accept_gdpr=1"
+         }, {
+            "date_added": "13331629279753544",
+            "date_last_used": "0",
+            "guid": "804d8249-f355-4b3a-ba92-e6f4798a6959",
+            "id": "17",
+            "name": "IS Assurance Intern - Summer 2024 (Orange County) - BDO USA Campus Career Site Careers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/335?utm_medium=jobshare"
+         }, {
+            "date_added": "13331629788695973",
+            "date_last_used": "0",
+            "guid": "6489a36c-410e-4aa2-a304-4578135945a2",
+            "id": "18",
+            "name": "Research Intern - Clear Resolution Consulting, LLC",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://crc.applicantstack.com/x/detail/a2klp8a3jtda"
+         }, {
+            "date_added": "13331630157794658",
+            "date_last_used": "0",
+            "guid": "dddddb3b-fb9e-4295-a926-046af95d6d10",
+            "id": "19",
+            "name": "Summer Internship - Facilities in Corona, California, United States of America | Administration/Legal at Circle K",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://workwithus.circlek.com/global/en/job/CIKCGLOBALR334593EXTERNALENGLOBAL/Summer-Internship-Facilities?utm_source=linkedin&utm_medium=phenom-feeds"
+         }, {
+            "date_added": "13331630360217666",
+            "date_last_used": "0",
+            "guid": "9a707842-3e36-4467-b478-dbf30c70a6e4",
+            "id": "20",
+            "name": "Software Engineer, Intern D (Anaheim, CA) at L3Harris Technologies",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://careers.l3harris.com/job/-/-/4832/50261841600?src=SNS-10240"
+         }, {
+            "date_added": "13331677886383494",
+            "date_last_used": "0",
+            "guid": "bed1cea2-405a-47c3-a2e5-9b71a3896cfe",
+            "id": "21",
+            "name": "Announcements: 2023 Smr - CS 52 (1235,1236,1680) [1..6] - Rattanasook - (O)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://online.smc.edu/courses/60079/announcements"
+         }, {
+            "date_added": "13332970829231599",
+            "date_last_used": "0",
+            "guid": "95fc5557-23b7-4602-a657-9cb323cc16ac",
+            "id": "22",
+            "name": "Michael Sullivan_2018.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/jsiri/Downloads/Michael%20Sullivan_2018.pdf"
+         }, {
+            "date_added": "13334966553363435",
+            "date_last_used": "0",
+            "guid": "75c55c84-651d-4706-8374-aa7895821161",
+            "id": "23",
+            "name": "2024 Associate Systems Engineer - Redondo Beach, CA - Northrop Grumman",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.northropgrumman.com/jobs/engineering/systemsarchitecturetest/united-states-of-america/california/redondo-beach/r10120420/2024-associate-systems-engineer-redondo-beach-ca/?code=OTH-13321&source=OTH-13321"
+         }, {
+            "date_added": "13334973981763251",
+            "date_last_used": "0",
+            "guid": "1fb6ffc7-131b-423d-a859-05fda3d57400",
+            "id": "24",
+            "name": "computer science internships",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/search?q=computer+science+internships&rlz=1C1CHBF_enUS910US910&oq=computer+science+internships&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGDsyCQgDECMYJxiKBTIMCAQQABgUGIcCGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgYIBxBFGEGoAgCwAgA&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&sqi=2&ved=2ahUKEwiv0M-x-6-AAxUgOUQIHSuWCqMQkd0GegQIFBAB#fpstate=tldetail&htivrt=jobs&htiq=computer+science+internships&htidocid=zPPOaEX231gAAAAAAAAAAA%3D%3D&sxsrf=AB5stBh_4fOskqt84AHf4TXIZGz9Dudliw:1690497889598"
+         }, {
+            "date_added": "13335212477931394",
+            "date_last_used": "0",
+            "guid": "36181226-f6d0-4bc3-b749-0a8deff8e1ae",
+            "id": "25",
+            "name": "Software and Computing Systems Academic Part Time Intern @ NASA Jet Propulsion Laboratory - Nerd Werk",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://nerdwerk.io/job/935526-software-and-computing-systems-academic-part-time-intern-nasa-jet-propulsion-laboratory?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+         }, {
+            "date_added": "13337026925173223",
+            "date_last_used": "0",
+            "guid": "8eba5865-958b-4b7d-baba-1196f2ba7ffb",
+            "id": "26",
+            "name": "Tesla Careers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.tesla.com/careers/search/job/internship-videogameengineerinfotainmentuiwinter-spring2024-204007?source=Indeed&tags=organicjob?source=Indeed&tags=organicjob"
+         }, {
+            "date_added": "13337026966520160",
+            "date_last_used": "0",
+            "guid": "41a11224-de13-4b98-acd2-a0607403b265",
+            "id": "27",
+            "name": "PwC Technology/Network Information Systems - Technology Intern - Summer 2024 at PwC",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://jobs.us.pwc.com/job/-/-/932/52532995264?utm_source=linkedin.com&utm_campaign=core_media&utm_medium=social_media&utm_content=job_posting&ss=paid&dclid=CjkKEQjw84anBhCq6fHLqPrNhIYBEiQAcbpzUVyjFuw_FsXLaxjbPo9zlapf_tYh65mNcfYFbchdTMTw_wcB"
+         }, {
+            "date_added": "13337972729058015",
+            "date_last_used": "0",
+            "guid": "985017a6-4f8b-47d8-8e80-d682277da202",
+            "id": "28",
+            "name": "New Application | Embedded Software Engineering Intern (Fall 2023) | Impulse Space Careers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://impulsespace.pinpointhq.com/postings/20a4e923-5c4e-4aa0-81a6-25e884e7247b/applications/new?utm_medium=job_board&utm_source=linkedIn"
+         }, {
+            "date_added": "13338325577638612",
+            "date_last_used": "0",
+            "guid": "4b095339-fe75-4a86-bc3a-cd360c453ebd",
+            "id": "29",
+            "name": "Riot Games Internship Study Guide Vol. 2: Tips and Tricks for Applying | Riot Games",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.riotgames.com/en/news/riot-games-internship-study-guide-vol-2-tips-and-tricks-for-applying#step1"
+         }, {
+            "date_added": "13338329401357127",
+            "date_last_used": "0",
+            "guid": "fba9580b-a26c-46f4-93ed-fa12c67c0d0a",
+            "id": "30",
+            "name": "Apply to IT Developer Intern @ UPS | JobzMall",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://app.jobzmall.com/ups/job/it-developer-intern/apply"
+         }, {
+            "date_added": "13338333288454887",
+            "date_last_used": "0",
+            "guid": "b985385e-b0ea-44eb-8d31-e894cb71fdf2",
+            "id": "31",
+            "name": "Search Jobs — Google Careers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&company=Fitbit&company=Google&company=YouTube&distance=50&employment_type=INTERN"
+         }, {
+            "date_added": "13338333506277883",
+            "date_last_used": "0",
+            "guid": "15e64e84-5771-46d9-b0d8-78d86ce7037f",
+            "id": "32",
+            "name": "Software Development-Undergraduate Intern Job in Hillsboro at Intel",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://jobs.intel.com/en/job/-/-/599/53806592864"
+         }, {
+            "date_added": "13338334689451815",
+            "date_last_used": "0",
+            "guid": "8860f6a8-e1d3-43ae-b011-90a6ebb723a0",
+            "id": "33",
+            "name": "Intern/Co-Op",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://careers.skyworksinc.com/job/Newbury-Park-InternCo-Op-CA-91319/1067803300/?feedId=177100&utm_source=Indeed&utm_campaign=Skyworks_Indeed"
+         }, {
+            "date_added": "13338335078497362",
+            "date_last_used": "0",
+            "guid": "253875ed-2165-4605-8307-6cc3aaa5fceb",
+            "id": "34",
+            "name": "Software Architecture Engineer Intern - Ambarella Careers Careers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ebeg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10527/?source=Indeed.com"
+         }, {
+            "date_added": "13338506269184784",
+            "date_last_used": "0",
+            "guid": "e0c62cb9-a2a7-4c5b-8a58-ac60448f8cf7",
+            "id": "35",
+            "name": "NASA Community College Aerospace Scholars (NCAS) | NASA",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.nasa.gov/stem/murep/projects/ncas.html"
+         }, {
+            "date_added": "13338511361090917",
+            "date_last_used": "0",
+            "guid": "54d4b44e-d10b-4332-84c8-4eedf003b7a4",
+            "id": "36",
+            "name": "Java Training and Certification - Oracle MyLearn",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mylearn.oracle.com/ou/story/40805"
+         }, {
+            "date_added": "13338515010504093",
+            "date_last_used": "0",
+            "guid": "c81fb1af-223f-4465-9a2f-1fe06d9ce81e",
+            "id": "37",
+            "name": "Workday",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-OH-Main-Bldg/Intern-Co-op---Information-Technology--summer--2024-_00008428/apply/applyManually"
+         }, {
+            "date_added": "13338515013667210",
+            "date_last_used": "0",
+            "guid": "0baef945-f402-4eb4-92ad-e75cf97fd652",
+            "id": "38",
+            "name": "Careers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mantech.wd1.myworkdayjobs.com/External/job/USA-Remote-Work/Electrical---Computer-Engineer-Internship_R41579?source=LinkedIn"
+         }, {
+            "date_added": "13338518180930044",
+            "date_last_used": "0",
+            "guid": "e4942b3b-540a-431c-a355-3111e891ffe8",
+            "id": "39",
+            "name": "2024 Summer Internship Computer Science Major [HYBRID] Job in Alhambra, CA | SCE",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.edisoncareers.com/ShowJob/Id/1548531/2024%20Summer%20Internship%20Computer%20Science%20Major%20[HYBRID]"
+         }, {
+            "date_added": "13338531535151970",
+            "date_last_used": "0",
+            "guid": "3c2f15f3-c1ab-4281-a125-9ff8047ce26d",
+            "id": "40",
+            "name": "21 Best Developer Portfolio Examples | HackerNoon",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://hackernoon.com/21-best-developer-portfolio-examples-p61j31wi"
+         }, {
+            "date_added": "13338531822410026",
+            "date_last_used": "0",
+            "guid": "81ddaac2-8866-496e-8176-112a7c000388",
+            "id": "41",
+            "name": "Quantum Foundry Undergraduate Summer Research Internship program",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.pathwaystoscience.org/programhub.aspx?sort=SUM-UCSantaBarbara-QuanFound"
+         }, {
+            "date_added": "13338532222497425",
+            "date_last_used": "0",
+            "guid": "b6ac4404-1092-4ef1-983c-715fd53b528f",
+            "id": "42",
+            "name": "Caterpillar - Computer Science Interns - San Diego, CA | Chegg Internships",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.internships.com/posting/lit_39559942602"
+         }, {
+            "date_added": "13338532247415949",
+            "date_last_used": "0",
+            "guid": "5fe7a05d-d02a-4771-b630-3d242b2d48a5",
+            "id": "43",
+            "name": "Visa - Software Engineering Interns - Foster City, CA | Chegg Internships",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.internships.com/posting/lit_39564980042"
+         }, {
+            "date_added": "13338578640198848",
+            "date_last_used": "0",
+            "guid": "04563339-cd40-4dd0-a43f-1f35672a09d1",
+            "id": "44",
+            "name": "Field-planning-technician-trainee-jobs - Southern California Edison",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.edisoncareers.com/page/show/Field-planning-technician-trainee-jobs"
+         }, {
+            "date_added": "13339929397044820",
+            "date_last_used": "0",
+            "guid": "eecfd623-1a9d-4b16-9970-894ea4781967",
+            "id": "45",
+            "name": "Robot Combat Events",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.robotcombatevents.com/events/1092"
+         }, {
+            "date_added": "13339929409485844",
+            "date_last_used": "0",
+            "guid": "a73c8b86-21a1-4eef-9bbe-220de2c6a8bd",
+            "id": "46",
+            "name": "Robot Combat Events",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.robotcombatevents.com/events/1091"
+         }, {
+            "date_added": "13342208730606498",
+            "date_last_used": "0",
+            "guid": "30aec674-a20a-4834-8935-9b6223d58eb7",
+            "id": "47",
+            "name": "Chrome DevTools - Chrome for Developers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://developer.chrome.com/docs/devtools/"
+         }, {
+            "date_added": "13346201470123178",
+            "date_last_used": "0",
+            "guid": "2692abcc-0c36-417a-87f7-2972828ac89f",
+            "id": "48",
+            "name": "MESA Summer Research Handbook 2023-2024.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/jsiri/Downloads/MESA%20Summer%20Research%20Handbook%202023-2024.pdf"
+         }, {
+            "date_added": "13346303921804384",
+            "date_last_used": "0",
+            "guid": "35e83c46-2e18-417a-8b65-8cb13ba948d8",
+            "id": "49",
+            "name": "Using a Queue to Solve a Maze",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.cs.hmc.edu/~keller/courses/cs60/slides/typed/138b2.html"
+         }, {
+            "date_added": "13347489043976273",
+            "date_last_used": "0",
+            "guid": "4bbfeb9b-962c-4f0a-a1a3-1f71286f7c2e",
+            "id": "50",
+            "name": "Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) - EECS at Berkeley",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://eecs.berkeley.edu/resources/undergrads/research-2/superb/"
+         } ],
+         "date_added": "13365552609941947",
+         "date_last_used": "0",
+         "date_modified": "13347489043976273",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13365552609941985",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCK5CMsSQAQAAEgAqGEZQbTIzVk8yT255bEJ4VlJKaEN5UUE9PUgDoAYEErEBCLcBEqsBChxIZ1hKcUlieklGemdydGxMWHgrZjlScC8wUzg9EiQ0ODFkYjc5Zi0wOTJkLTRhYWEtYWQ4MS1mZTNjMjAyNzhlY2EYACAAKAAw+5/CgogyONmjwoKIMkDZo8KCiDJKHG04dUFWazhYYXMyUFVaUjV1TkxlamVVV0FIQT1aJyIl/////wAAAAf6ck5BbGR0L280QlJoT3EyZzRCS1N4LzdreFV3PWV8U6vbEqcBCHYSogEKHGFvWjdUVFRlMzF5V2VXQUlsS2JrVTE1VWttYz0SJGY1OTkwMTMwLWIwMDgtNDZiYS1hNmY2LWMxOWUxZGI5Nzc0NxgAIAAoADDloYv8xDE4iKWL/MQxQIili/zEMUocRlJGVkpyN3N2cU9ZTUZtKzJZTGRjWEpJSDFRPVoeIhxTZTRvZ0pDczhuaHFxZ1hSWEJqUkVqKzRFRnM9ZQAAAAASqQEIhQESowEKHGFEblZDWlI4VE1YRzJBUFZPbUdBc3lXWEVIbz0SJDU2MTZkODMwLTI4MDYtNGYwNC1hM2QwLTIyZjZiNWI4YTQ0ZhgAIAAoADComant0zE4zOCK/MQxQMzgivzEMUocbk0zRGJpSWVxVlM1ZzRPWGdKdkdnY1l3RkFZPVofIh30L1gvcTh2RjM3OU05OEozWGxiZFo2SzZFdjJJPWX4JccIEqoBCIoBEqQBChxpNmwraDN2Qm1IQ0dveTVMWTR1clFoVjRnNHM9EiRlMmU3ODc1OC0wODhhLTRlYzItYjlkYS0zZTM5NTQ0M2Q5OWYYACAAKAAw26ep7dMxOMyzi/zEMUDMs4v8xDFKHElWTDNnOFFpZTNpMXVNQkpzUUgvdWhhdFVxQT1aICIe/7pTUGpYTzRDdVFKNE5LV2J5V0lFZVNNVGc1Wjg9ZYLOQFISrwEILRKqAQocL2lmSmlkSEkxTW56UTFleG10OGtoN1BtV1lFPRIkZWVjZmQ2MjMtMWE5ZC00YjE2LTk5NzAtODk0ZWE0NzgxOTY3GAAgACgAMMG2qe3TMTjowYv8xDFA6MGL/MQxShxIaDQzNzNqVW0ycGU3aWJvQlkweUxrT3MzZzQ9WiYiJP////8AAAAEZ1d4NGRLR2pwS01HaVoxVHVCUloxNjFPcUNnPWXjRqkSEqoBCIsBEqQBChx1bGpHR21aNVgyVk5MMzhWUGNOMnBqZVUxd009EiQwNjIyN2I0OS0zNjU5LTRjYWEtYThmNy05YTg4MmUyNDJjNWEYACAAKAAwpv6o7dMxON/fi/zEMUDf34v8xDFKHEdNYXU5Wk9VYWJoV2J5TDRjOXFTVmFQSHRUQT1aICIe/91SVG53S2o2Ulp1bEU2M1JXQVBGZVV4Q3BNYzQ9ZUtuhzgSqQEITRKkAQocd2wvZXEyZDA2UWVXVTA5aW14QWl2RUFsRzJBPRIkNTAwMzc1OTQtOTA1MC00M2ZmLThjNjUtNjc2YWVmNWU0ZDk0GAAgACgAMPWEi/zEMTjhiIv8xDFA4YiL/MQxShxlU1I4RUFGc2Jsb2ZZdjRuNG5mcytMZDUxVlE9WiAiHv/sUzBEMXltZ3Q1a3NUbXNpQStYNzNJSDl5UVBRPWUAAAAAEqgBCLkBEqIBChxXMEdXdFdid3YrSFdMNUczalgwN0I3eldSZUk9EiRjYWViMmQ3NS0xZGM3LTQ1NWMtOWY3ZS1iZjVmZTdiMTlmMmQYACAAKAAw04Dzy4syOL743P+KMkDTgPPLizJKHEFUZ0sxVngrcHdDVlJPejcxVnRGU21xZFlwVT1aHiIcdCtNdTN1dTQ0THNqa0crbDJHOTlpQ05xS0hjPWU5xrawEqgBCFESowEKHEhHR1lScnorRm43cCt6cEtCL1N0ZVhidlhoST0SJDMxY2ViYmM3LWYyMTgtNDI4ZC04OTNiLTU2OGY2ZDIwZDFhNRgAIAAoADDrpart0zE41YmL/MQxQNWJi/zEMUocT0l3M1hneXd6MFgweUl5Q2JBZzdiRTVUWjdvPVofIh3cZzlKSzU4YW1TYnF0ZXMyeWN2THU4RDk3a1g0PWVRdDDaEqkBCIcBEqMBChxraXdFVDZCamFqU09ETDd2OWt3TzNnZXBqMDg9EiRjMmE0OWU0NC0zOTVmLTQ4ZWEtYmZkYy02MjFkZTMzMTllZDcYACAAKAAwkZaq7dMxOLXRi/zEMUC10Yv8xDFKHCt5UzRCRE1GdGpUdDhBaXJaQTFaTHN5bWZzcz1aHyId/VVqMFI3MDUwN2ZhSUlRL0pxMkVheU5PR2tjQT1lOPk5MxKnAQh3EqIBChxQM1JtU2szU1dWbkFaMStTTXRDck1CdHNFdzg9EiRjNGNhYjdjNi04NTFmLTQ2ZDAtODM1My1iYzdlODg4MWEzMmYYACAAKAAwuN+p7dMxOKOli/zEMUCjpYv8xDFKHFA4dlpPZkEzNXFrOHNUdngyUHdtWFpvbFN1UT1aHiIcZUpiMTcxd3k1YWo3by9tWnJQSDBQYnk4cFhZPWV3cGyjEqkBCBMSpAEKHEJYZmtkN2w5Y3pwT0ZNTkpZbWhlSVJPOTR0ND0SJGRkZGRkYjNiLWZiOWUtNDI5NS1hOTI2LTA0NmFmOTVkNmQxMBgAIAAoADDNtqnt0zE4mN6K/MQxQJjeivzEMUocRWNmM2tIbXBUWXkyM0Y2MmNmV0lBRjZXdk9FPVogIh7/uU5qd0QvY0ZmeG5tQVVXdC95d1B2R1RCVkRPdz1lAVYj8RKpAQiGARKjAQocT05ITU5rWXRuV0NoUCtvNy96TWtWa3UyV2tFPRIkNzhkOGEwMjItOGE0MC00NDc0LTk0NzEtZGI5ZjUxYWM3ZmJlGAAgACgAMKr+qO3TMTi+34v8xDFAvt+L/MQxShxuL0dkNzhJUC9vUFJJY25XUXdnRGpodVFWcmM9Wh8iHfp3Y09XTTIyZFp1QUZKMGJ0a2wzQ21CVWNFZnc9ZTj5OTMSqQEIwwESowEKHHVEWUo3OVFtekxiY0RGYXFKUlplLytqTjVkTT0SJDAzOTgwNmFiLTZlY2EtNDA2My05MmRiLTA0NWQ3OTQwZTVhMxgAIAAoADD3y6XNizI47s+lzYsyQO7Ppc2LMkocWVo5Tmh4T3RGc29UK2hTMXlFU0FxeThqb29FPVofIh3uUUZmcDlGTUZEUzU1cmxUNnovTzZ0QmIyb3JZPWX6kd7bEqcBCHgSogEKHGp2QWtOZFg5OHYvMnNRZEFHOEdPeVFQTE4rOD0SJGJkNjk0NWVlLTBhN2MtNGUwNC1hNzgyLTZlMGRiMTAzNTU0NRgAIAAoADDF+ant0zE4wKWL/MQxQMCli/zEMUocakZUME8yaENRU3MrQTYza2FjeUdMWGdaWndzPVoeIhx6OWNKZ1JrclVPWkI5VURMWmhwa09zZTBLMms9ZXdwbKMSsQEItQESqwEKHGozMzZ4Rkt0U044VmRMbjRHcWlYMlViTVM5bz0SJDQ3NTAzZmQyLTAyNDAtNDk1MS04MWQzLWZjMTc3ZTM3NDFlYxgAIAAoADCg35iBiDI47eeYgYgyQO3nmIGIMkocK2wvdEd6bWlEQUFSd01OOWJZYmd2Z0g2VURJPVonIiX/////AAAAB+tJemZQcXAzVUJ1Tmw2ZDdIM0FRcmMvZ3NjYlU9ZS2097QSqAEIEBKjAQocZS8zVmlWOTNQK2VNK1hONUNHME5jc2xKNiswPRIkMWY0MDg3MTUtZTdhNS00N2YxLTg3ODMtNTRjZTEwMTJkNGQzGAAgACgAMM/5qe3TMTiL1Yr8xDFAi9WK/MQxShw5alhlYVdFREYyT01YZlByNkZpbjlaUFNDUG89Wh8iHf9MV0NzUXhmeVdONHpVK05FOTM2b1lnejVYRG89ZR3HEcsSsAEIvgESqgEKHDBMSUpmbG9WS29PbHA5Q0l1NXVQZW1NUFFROD0SJDM0NmM2ODkwLWQwZWItNGRmZi1hZDRhLWEzMWQyNzcyMWMxNhgAIAAoADDvk6fSizI4jZen0osyQI2Xp9KLMkoccFRUQ0dVemdXYzNsV1RLZ1gwaUNTeW9XclR3PVomIiT/////AAAACGZtdmFMaFFVTmxNbmlaRkMzMEtxWDNOcllHOD1lAAAAABKqAQiMARKkAQocWUhUMlBKQiticEZocm05Zjl6b0R3eUVJcUFzPRIkYjUzMjNmYzQtOTdjNS00MTNjLWIwZjUtMGE5ZGQ2NDQzNzM2GAAgACgAMKbFqe3TMTi9wIv8xDFAvcCL/MQxShxkOENLbmxvTmRNdzRiSSs4aThHSHZIdkxXZWs9WiAiHv/uU0pqUWwyYUhLeGtuRXhlZVZtNENnaUtLN3BJPWXSrNbyErEBCLYBEqsBChxtT3JxMmp4N0tyR21IQ3RZVHFkb0xVQmFCalk9EiRlMTA0NzFjOC1kZjcwLTQxYjQtOWVlMy1mMmFlYmU4OGE4NTkYACAAKAAwgPyYgYgyOLz+mIGIMkC8/piBiDJKHGxjbjJaNUdRUzN2SWNiN0dMWnVVNkE2aG1tbz1aJyIl/////wAAAAf1NFVkZStWOTliOW4rdjNHMEkySndab3ViaThRPWUttPe0EqgBCHQSowEKHHpueDJxeUlaczNoRVNaQ1VxclhPelFueUk0WT0SJDk5MDc0YWYyLTAzMjAtNGY3OS05YTc4LTkwNDE5MTAzYTEwNRgAIAAoADDU+ant0zE4zqaL/MQxQM6mi/zEMUocMGFaWjQ2MVZobmRiTDN2TFMzcTRJdWV6ZkVzPVofIh39SjVIMEU1RWljSHpxRWlteDdKL1NyUlF6S2I0PWWrOEXSEqgBCEgSowEKHDlxT2RzaXc5Sit6SEdYQjR2blJEYVRvUDluST0SJGEyYmY5NzM0LTYzZmItNDc0NS05ZDEzLTg2OGViYmQwNGY5MhgAIAAoADCTlqrt0zE4/++K/MQxQP/vivzEMUoca1BMcUw1TzJKMzRGckNwdCtHWlJ1YWdCK1IwPVofIh26T0w5M3pPV2JlWXdvTVVhVWsyeEt4cTJwaWU0PWVx7/X3EqgBCFASowEKHE5BQkNZUWFsSDFtSXA4REQ1R1pDM2dzbWlxbz0SJGVhMWNlZjdiLTBjZDEtNGE4NC1hNmIxLWE0ZDM3OGExNDA3OBgAIAAoADCUlqrt0zE4uImL/MQxQLiJi/zEMUocQ0p5bjNwRHU0QVZKYjhPaGYzWml5S0ZBb1lZPVofIh25MnN2bEdUS3lTaTg1QmVoVXZLV2MzMG41ZS93PWXhvbfLErEBCLMBEqsBChxOR3cwMGlXUkRtRW96SmlndDBiVCtMSXJjMXc9EiRhMjlkMDFlYi1iZTJjLTQ4ZmUtODRjYS04Mjg2YTRjZmE3YTYYACAAKAAww/mp7dMxOM2Hi/zEMUDNh4v8xDFKHFdFRk1DVnJSV1IyZTB5dHlLdk9BUGgzV2RYOD1aJyIl/////wAAAAbZV0s0ek90OGRXUmhua2dFTmpqSHVzNDJ4VHhzPWXApSi6EqcBCE8SogEKHGNkS0lxTVA0cGdrcHU0VHhWSnY3bW9FeXM3QT0SJDYxMzc5ZjgxLWYzM2EtNDJlNy04MzlhLTc5MjViNDdmYmEwZRgAIAAoADCglqrt0zE4lomL/MQxQJaJi/zEMUocNlVXQzNnYWxEZE84aWNKQ1NiRzVDQUhCMGZFPVoeIhxyUUJDQjdqeFE0TGcxNEV3OUhyeHE5YnkxZkk9ZWx6skwSqAEITBKjAQocVnZiSjlEdUsyeXJZZFQ4b3Z6d2xOR0xFaGJ3PRIkZGM3ZWQ1OTEtNDFjNy00ODRmLTlkNDctZmEwZmQ4NTIxMjA2GAAgACgAMNP5qe3TMTj08Ir8xDFA9PCK/MQxShxyS0NuK3FMZXpmK0RiNWtvV1FZNHZNSmlVdVk9Wh8iHftBU3QyU05ldW5kVTVTamZueHVSZTNpVFEwYXc9ZUY2FhwSqwEIJRKmAQocQjVpbU8wSEZ2d012eVk2cTQvMVVmTG9lV0RzPRIkYzgxZmIxYWYtMjIzZi00NDY1LTlhMmYtMWZlMDZkOWNlODFlGAAgACgAMJ7hqO3TMTiov4v8xDFAqL+L/MQxShw1TDRzcndmVFVkUkRLeUlmV3BKWlIvU2RIbkE9WiIiIP///95wQTkyRUUwNnNmSTl6Zk1NSFF4REtLZlZ0QXc9ZeuyHTcSqQEIRRKkAQocUkE2VE5ockxpZXFCWE5sMmRiamVZQzN5b2hnPRIkYzlhYTJmOGYtMDA2MC00MzI0LWEwNDctNDhjMTJkZDA2MTQzGAAgACgAMNjsivzEMTis74r8xDFArO+K/MQxShwwYlZWQ21xNmcxK01TcTNpT2dkSHAzdk9tcUk9WiAiHv/ZVmFTYjZmeks0ZjNxSFVRZTFUZDB4NmRURXpNPWUAAAAAErEBCLgBEqsBChxrL21DNkQzcTdVOHk0Z0IzcVdtUktOMzBacXc9EiQzNDNjN2E0NS1hNWY2LTQ3ZjQtYjk5NC1jNzhiZDliM2QxMDYYACAAKAAw5tTrpYkyOMit66WJMkDIreuliTJKHGowT0xCdVNpYXhHM2N5Qk0zcXBMWkI2a0tpbz1aJyIl/////wAAAAf9NkJoSCtoVXZ5Y2pEUGZFZHJpWWkyQi9hWUtNPWU5xrawEqoBCB8SpQEKHGowTDlNR2IvdUwzcGozc2kzeWp6U29lTkx3bz0SJGI5ODUzODVlLWIwZWEtNDRlYi04ZDMxLWU4OTRjYjcxZmRmMhgAIAAoADDAtqnt0zE49t2K/MQxQPbdivzEMUocS2N5YkhKazZucHNYeEVla3FSdnlSUDFpdEFJPVohIh////dhN2dXaEtOYVNCT3QxckdlaWJxTG9aKzBJM1k9ZRAw/+QSqAEIMxKjAQocZlJSNndXTnlwRStLcnpVekNGOXdKUDMzZWFNPRIkNGNhMDBjZDktYjE3Mi00ZTZkLThmMTctOTQ3MGQyMWRiYzZhGAAgACgAMImUqe3TMTiXqIv8xDFAl6iL/MQxShx4U2lHdExFVVNEVmZtNnN0T1NnalZVZkNSaG89Wh8iHf85R1dHelZGM1p0M0NzRHdTajZBYmJFb214Ukk9ZZs9hbYSqAEIdRKjAQocUVNsZjhSZG1hV25iV3lIZVJMblpzOHY4WFVJPRIkZmU5MjIzZDItMjc0OC00MTdmLWI4MmYtMmY3ZjdmNWEwZGFjGAAgACgAMOShi/zEMTjrpIv8xDFA66SL/MQxShxpREhXekZsaUJGeWVjQzE4MjNjUzlTdUhZa009Wh8iHf5wdE5aMlFGS055RC8vTVVWbVRJM2FubnVIRFE9ZQAAAAASqQEIhAESowEKHG5DZStWRFlzOVFnODhVenRDSUxjaFllOTZEST0SJGExMGRjN2YyLThmNmItNGI0Yi05ZDAxLWIxMTNhOWRlMGNjMRgAIAAoADCSlqrt0zE4suCK/MQxQLLgivzEMUocL3dSWnFLZi84TWtDQjltYytCT0Y2ZlVIVVA4PVofIh3pYzIxNnBXU1BPUHF6TFdTVGJJTE5yRnA0L1pZPWU4+TkzEqcBCEcSogEKHFJneXZ5ZTBVZ1haQzhyL3ZGekUzTEFNMkJiaz0SJDIyYmU5ZDU0LTEwMTktNDU1MC1hZjBiLWIyNGQ1NzViOTEwMxgAIAAoADCdlqrt0zE45O+K/MQxQOTvivzEMUocMTdOQVBoczh6ZUl4WmYzdkNXTXVaaUFybmNjPVoeIhx0aFRaNDNONHlhcS9mZDVFdGFwK0VXc3NYc1E9ZUY2FhwSiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkZjhhNGQ3MmMtMmNhYS01Y2JlLThiN2ItYWFiZTQ1ZTgxYjgwGAAgACgAMOuGue63Ljjk5LvZ5y9A5OS72ecvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKpAQgVEqQBChwrcEZ3TC9qaVFVUGF4ajM3UXdyYUtkcVNqSHc9EiRiZWQxY2VhMi00MDVhLTQ3YzMtYTJlNS05YjcxYTM4OTZjZmUYACAAKAAwmOGo7dMxOM3/ivzEMUDN/4r8xDFKHDFDTllrZmFqZ3Y4VVZ3WkZrSmZPQ0x5UGhmZz1aICIe/+5vWGFMbk81bE9xMzhIK3RWcUVtSW9UNHQ5YmM9ZXxkPcESsAEILxKrAQocV0JadTRkcVJaalIrY2g1aVVYNkRoQTU1Ym9RPRIkMzBhZWM2NzQtYTIwYS00ODM0LTg5MzUtOWI2MjIzZDU4ZWI3GAAgACgAMPClqu3TMTi41Ir8xDFAuNSK/MQxShxrRjc0VGNiVTlPUGYzKzNxd09obWIrZFBjZnM9WiciJf////8AAAAEuGJBRWRmc0VQZjcyS3h6ZkpFYVdTb2R2OXRyND1lFsEYHxKwAQgwEqsBChxaR3pKeXVvSGF0ZmE5WUlweVhyazlnaWdoblk9EiQyNjkyYWJjYy0wYzM2LTQxN2EtODdmNy0yOTcyODI4YWM4OWYYACAAKAAws8Wp7dMxOIbfivzEMUCG34r8xDFKHDl3Q29SK0lVU3pjcHh1c20zNDg0MXZFWE44bz1aJyIl/////wAAAATcVG5aQko1Rm1yR3R6R0xPM1BvNGQyU2J6eG5NPWV3cGyjEqkBCL0BEqMBChw4d0RTRnU3YjZVd3dIZHBPWEJpYVVvZjlJSlE9EiRlNTYxYzdhYS04MGQxLTQ5YWItYmU2OS0zM2RhMjM3ZWI5ZTkYACADKAMw5J7f9IsyOJW+zM2LMkCbjN/0izJKHGdob1VRZUJ2MUVHcEhkNityWEk2RnIxLys5Zz1aHyId5VBXTktPRFpmbmdrWkJpOTBhbGYvQlBML29mRT1llJ2wjxKwAQgxEqsBChx6VzUrcmZ0TDl3ZlA0SnJJTytGaFBqN2x0U0k9EiQzNWU4M2M0Ni0yZTE4LTQxN2EtOGI2NS04Y2IxM2JhOTQ4ZDgYACAAKAAwtZmp7dMxOMGWi/zEMUDBlov8xDFKHEVYS1lTS2l3S2w1K1U1NnprRFF2TG4wN1o2VT1aJyIl/////wAAAATuN2JNdjdBUnVsdnhmNloyaHhhMzNZdzIxZzQ4PWVFKn5REqsBCCcSpgEKHFRlNHNkSi9mRUVQMDdZSE5RQnRnNWlOVjZPUT0SJGU0OTQyYjNiLTU0MGEtNDMxYy1hMzU1LTMxMTFlODkxZmZlOBgAIAAoADDG36nt0zE4/LWL/MQxQPy1i/zEMUocS3pzQUVUU29LSHBzNlFKdnQrVDZUd2lOZURJPVoiIiD////3eXd3dnQyeDB0bzQzN0NTSUZGMG1wcXRoYmNZPWVIi2RWEqoBCMABEqQBChxWS1IwNS94NENrVzR1RDkrS0F2N1lqbE5YL3M9EiQ5YmU0ZGJkNy0wYzc0LTQ5Y2ItYjljNS0zMDM1OGQ0MzM4ZmYYACAAKAAw/NHyy4syOM++8suLMkDPvvLLizJKHFo1V2FTN0E5WUNYMTM3WlhFMWRnbGZSNVJ4Yz1aICIe//plcnpxQk1oMFVrRkFudUlwY0tzSXU3emxwMGM9ZQAAAAASiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMjFlYzhlNjItNDFiNS01YTViLTgzMDQtNjkyYzIzYmNiNjVjGAAgACgAMPCGue63LjjK6LvZ5y9Ayui72ecvShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKvAQguEqoBChxjaTJzaHJRVnZBK3daWisrckZmQW8zYTc0QUk9EiRhNzNjOGI4Ni0yMWExLTRlZWYtOWJiZS0yMjBkZTJjNmE4YmQYACAAKAAwoP6o7dMxONHRi/zEMUDR0Yv8xDFKHFZDazdtb1hBMjEvQnNhcDVtMGVrbVNIbmkwdz1aJiIk/////wAAAARxR0FIMzJ6SXZHZ3M5Y0xuVTZQTFpnTWQ2Y0E9ZeNGqRISqAEIfBKjAQocS2VnaEZpK3RBTk5HNVJGYWZmQ2laMWF3QWxzPRIkNTFjOWNkMDQtOTlmMy00MDNlLTg5NTUtYjlmZDkyOGI3MTM3GAAgACgAMOSlqu3TMTiupov8xDFArqaL/MQxShw3WjNEdGtWN29pYTdOQmxKTDdMOGFlOTZRRWc9Wh8iHfdja0dNUDlmWXU5OUdyazQwV3NWbm90eDV1OVU9ZdU8faQSqQEIiQESowEKHEEwSDZSdUtFb3oxOElkcVRYNzI5b1lrb0llTT0SJDlmMDc4NjYzLTNlOTEtNDRhNC1iZDM0LTFkMmVlNGFjYjA3ORgAIAAoADDdp6nt0zE4kPGK/MQxQJDxivzEMUoccHZKUlpHWmZjSnQvTFZlNmkwYy9DM3E5MmZrPVofIh3/dXZjK092UnBzaWJ6U0ZOY2J2YTlrcTlQemZjPWVFzKg8EqcBCEYSogEKHHpReVRCQXQ5c3JCTEFxZ2tGazgrR0w0MEJRaz0SJDM2MzFkMzE4LWU5OGEtNDA1NS1hZjNiLTU1YzhkOTYxOTk3MBgAIAAoADC636nt0zE4yO+K/MQxQMjvivzEMUocRUEyUWxMSVJQK2d5UUVQR29kaHZka1pSeTBnPVoeIhxLOWJzR1RPN3NVSUVpcjVMaXZQVTJlQTNacWc9ZT2Jb/cSrwEIKxKqAQocYkRxQmRrSFprNlJJNjhHNzdjRmswRTVCbFFVPRIkNWZlN2EwNWQtZDAyYS00NzcxLWI2MzAtM2QyNDJiMmQ0OGE1GAAgACgAMJ/+qO3TMTir/Ir8xDFAq/yK/MQxShxsQVpxZmNJZ0FPdGVxRi9qcFRwUWNZcHhIakk9WiYiJP////8AAAAEMlh2K1p3dWp0VjJzMzlYSVdvODZYc25nN3dRPWUnKPZ8EqcBCE4SogEKHGMrZHU5Unk4c3V6eGdtcDlXQlpzQkI4YjJadz0SJDU0MjI2N2RmLWYyMzQtNDY5YS1iZTdjLTIyMzI5N2IwY2Q1NRgAIAAoADD2hIv8xDE4/IiL/MQxQPyIi/zEMUocT1dmUGowYkJKZUxqSndYbUZQOHdhVTZucGswPVoeIhwxTmNFbkxacENtaTlyYmE2dmNpV0kxUHovanM9ZQAAAAASqwEIKhKmAQocRVhoRHlQdHc3TXl2V1V6Y3hVRXNlVXVnM3BzPRIkYjZhYzQ0MDQtMTA5Mi00ZWYxLTk4M2MtNzE1ZmQ1M2I1MjhmGAAgACgAML62qe3TMTj6p4v8xDFA+qeL/MQxShxoR3BtVnlzeEUrc1Rpd3Jyd0tnS1JrQUI3aFE9WiIiIP////5aV3J3cC80QmN4WW5uNm1GWldpYlk5VUFNQkE9ZSco9nwSqAEIShKjAQocc3NNbGFsSzN3U3JFQyt6blVTdkFWakp6MTNnPRIkZTI4MmQzZDQtY2JkNS00YzdjLTkwMWEtMTUyZTIxYjZjYTNmGAAgACgAMK/Fqe3TMTi18Ir8xDFAtfCK/MQxShxwR3VkRGdnQXBFNXI1Y0tRdEFvVm5BbVduYXM9Wh8iHe5sVlJsNndYMjJWRDU2clJUSEpBaE5WM1NQOWs9ZRAFdX4SqQEIiAESowEKHGQvVzc4RTJvbkZtWW9wRkkxd0tKK1VrUUpYTT0SJDkzMjE0M2EzLTUzZTItNGU0ZC1iODg4LTdjYzY4YWY1YjFlMRgAIAAoADCtxant0zE4xrWL/MQxQMa1i/zEMUocZFM1blZUZm1SVkh3SnZLMGZjSEZvSVMyaDdzPVofIh3+Tmh4dXhsMWRMSElMcUxrdm9jYWhWakJMbzFNPWXApSi6EqsBCLIBEqUBChxkMWJLZ0lGNVN3Q2NoVm1RbWFDbXZZdURka1k9EiQzMzUxNmMwYi1mNTRiLTQ3YzUtYWU3NC1jZjA1MDM1YjViZDcYACAAKAAwq7Kq7dMxOJLPivzEMUCSz4r8xDFKHDh4b0VmalFhczVQb1ZpWlo4S1JPdXdwdDVrMD1aISIf///9dkdaNG5TWTZSdGdqcCtHOVpjT1JES1oxYmlBPWWSB8GCEqkBCH8SpAEKHHdNMlhQMEg1azdnaTB4TGtkVVhHM0g5YVBrRT0SJDc3MmZmYjE2LThlMzYtNDNiMy05MTc5LTJiZmQ2YTlhYjkxNhgAIAAoADCp2or8xDE4ot+K/MQxQKLfivzEMUocb1REbGdic3BHa0tzR040dm91dGc0TG03RjcwPVogIh7/9mhLRUM1K2JUZU15Y242WlprTEFWTXdXMXBYZz1lAAAAABKqAQgdEqUBChxtMTAyVVlMcHFzd2YzOUlFMng0TVRVWWNlZlk9EiQ0YjA5NTMzOS1mZTc1LTRhODYtYmMzYS1jZDM2MGM0NTNlYmQYACAAKAAwluGo7dMxOObUi/zEMUDm1Iv8xDFKHHFwMjByRUJqZEFLdWFONi9KdzA2cXd6ci9XUT1aISIf///eT0V5WEtzMW1KUExUb2pLa29pcUpZb3JNRGlrPWWBOl8qEqgBCHsSowEKHFNOeERGd1V4TE0xaVNjOVoyWHBqb3J2dFFEZz0SJGQ5MjNkZTdmLWUxMGYtNDIwNS1hNDlmLWVjMDhiOWQ1YzI2MxgAIAAoADDItqnt0zE4kqaL/MQxQJKmi/zEMUocMnowdXdNOTlzbXJ6K1dLZlhkZlZ0aENKOFlZPVofIh3vZUVSbFRIcTh5MHpVTTR0SXRaY2ZQN2lBc3FBPWV9Yc3IEqoBCBwSpQEKHE5KWTVFckhEaStmRWNUdjNETCtFWlRQUVozbz0SJDk4NTAxN2E2LTRmOGItNDdkOC04ZTgwLWQ2ODIyNzdkYTIwMhgAIAAoADCh4ajt0zE4ouCL/MQxQKLgi/zEMUocSy9RbXFHRm5Zc083YXlaZUFNQkt2enlmOGxnPVohIh///71oVzZHK2RCazhJZ0xhVitFWU1ZbklGRDdsNFE9ZcAerRASqQEIgwESowEKHHAzeXJBd3FhakpjeHgycHNPWXNjNVMycGJKND0SJDFkYmU5NzlhLTk2ZjktNDRlYi1iNTI2LTNiOTc4ZGEzOGUyNhgAIAAoADCQlqrt0zE4leCK/MQxQJXgivzEMUoceXNnZW9ZSTdwczE1a2tpT0tYc2dsYkhCUkNvPVofIh3TVFV1dlJENlYwbDZrZk1mVDV0Wmw0Uy9DbHpzPWX5MJe3EqgBCH0SowEKHE13bkcyeFpyYmI3eXI3OU5mRzBkaFRHZDh0dz0SJDNiMzk1YzY1LTYwMWYtNGMzYi05NGU3LTZiYzU2NTkzNjJiMhgAIAAoADDGtqnt0zE45JeL/MQxQOSXi/zEMUocaFVrMGo0bngzUUVSSUplcitacGRxVlpKTU1jPVofIh3/ZTkxVzAzaDZRZkViRUlyeisrN3pBUVBPK1hBPWUletIaEqgBCBISowEKHFV0RUtqM1AyaEVsVTNwUVhvS0JkOUZHbnRFOD0SJDY0ODlhMzZjLTQxMGUtNGFhMi1hMzA0LTQ1NzgxMzU5NDVhMhgAIAAoADCqvIv8xDE4n8KL/MQxQJ/Ci/zEMUocRXM1WHo0QUMyeWNRWnJJVDRNM0pmbFE1NU1ZPVofIh3/ck5ud0hRbk9VZXhzcHpGaFNPNW10SThRQ0lzPWUAAAAAEqgBCBESowEKHFQ3THhmRFN1ZlN5N2I0dUtRQytWcHU4cDFObz0SJDgwNGQ4MjQ5LWYzNTUtNGIzYS1iYTkyLWU2ZjQ3OThhNjk1ORgAIAAoADC0xant0zE4vd2K/MQxQL3divzEMUocdG9wT0hXWXUrVHcwUXBrdkZleHlRQUNCSlNzPVofIh3/THkzYk4ydGw3eTdMUjk0REovSHZKaHpOVC93PWVtA/0CEqkBCBQSpAEKHGMzVzJTUlpJUlpzcVkrNFdpZFlWTDU5YlM1cz0SJDlhNzA3ODQyLTNlMzYtNDQ2Ny1iNDc4LWRiZjMwYzcwYTZlNBgAIAAoADCNlqrt0zE4wbSL/MQxQMG0i/zEMUocMzJQRjZYcmFyS0lMbmE2S3NKcEFBOU1ETGtrPVogIh7/3HVDZFJHTm9nNHNsU1preDBJZ1NTa0hFeitiND1l0PZr+RKqAQgeEqUBChxVc1hVdnY1WjByRUMzSWF5VXpJTVJyWWU3dm89EiRmYmE5NTgwYi1hMjZjLTQ2ZjQtOTNlZC1mYTEyYzY3YzBkMGEYACAAKAAwybap7dMxOMr8ivzEMUDK/Ir8xDFKHEh1RDBoRDljWkJiYTRYdCt6TzBNaUNqNmRBND1aISIf///vQ0pJYnpkeVd4Zzk4NzRGTkdRMmRnSDNVZGdVPWVMBQhdEqgBCIEBEqIBChxwbWliWXFmWE42RzFoOUlnOTRobERuaXhrVVU9EiQwMWM4MDZjMC1iY2UyLTQwOTEtYmFjMi00ZWMyMzY0ZTQ4YzMYACAAKAAwq9qK/MQxONjfivzEMUDY34r8xDFKHFlTRjh0U0RlR01Yd2htZVF5OXZLenl2VmxMOD1aHiIcT2JKTmVJZTNTTnpOL3V2MHFmZzdPUkVEaHpnPWUAAAAAEqgBCIABEqIBChw5bXhkbHBzTXp2alFZUndQVklORDQ0djZaQ0E9EiRhNzFkM2Q3Yi0zMTg3LTQ3YTAtYTU5NS0yODBlMzdjMzdmZjEYACAAKAAwwrap7dMxOL3fivzEMUC934r8xDFKHHYxK0pQZ1liMngzRnBId0k0Z0N4M294WHByMD1aHiIcTGZqaXNqY0dGS1FLMGhJL1FLQVQ5REdpNk44PWXApSi6EqgBCA4SowEKHDRRTHNDeWg2N0Y5YWFmSHNON2F0VGFoVWFYQT0SJGI5OWFlMzU1LWI0NDYtNGEwMC05OWJhLWUyOTJiMjNiM2MwNBgAIAAoADDFtqnt0zE40N6K/MQxQNDeivzEMUocMFRidkhmUC9yb29OYjVSVXl4ZzBBVXM2QUJjPVofIh39Q1dWZDRFWm5CRm1yRzNtWFo2SktiTGZMSVp3PWVYBsTDEqsBCLEBEqUBChxCNzQxTktoaXNqQmVET1pVa09DZDZvU0VkQ0E9EiQxYWNiM2QxMy1mZGI3LTQxMjktYWU4Yy0yYzY1MTNlODY4NWYYACAAKAAw36ep7dMxOND7ivzEMUDQ+4r8xDFKHFNMckkzQnkyQ3JmcndsU0xJUjNHNUlTSHNObz1aISIf///tdENmaGl6cmtGWVFMRUZrU0RlUW5sVEt4MlNvPWX2FOfgEqkBCIIBEqMBChxPWG5VZ2ZYUkJSeGhHaVNsOVlSQkdmdDZFTm89EiQzNjFkNDcxZC1lN2NjLTRmN2ItOTBhMS1hNzkxZjgzZDc0ZmQYACAAKAAwo/6o7dMxOPnfivzEMUD534r8xDFKHFRCVUd0QXVnbDF2V2FxVlkyUjhmUjJ0QlMydz1aHyIdp0hMT01LSTdGNlV2Vnd2dmkwSWRLdkZUM2ovZz1l+CXHCBKpAQgYEqQBChx6b1hkeWxONGRMbFNjVldDTjVQN0xWL2s4OWc9EiQxZmI2ZmZjNy0xMzFiLTQyM2QtYTg1OS0wNWZkYTNkNTc0MDAYACAAKAAw0qep7dMxOPzQi/zEMUD80Iv8xDFKHGxDZERuaVFNSURjTVExS3NMMmNSTjlwaURObz1aICIe//1VeFpEOW81eVZSRHUrbWdMa1ZZU2dtRUQyK0k9ZRAw/+QSqQEIFxKkAQocVjRNWWM2ZHlxcCtwUkVMMElEQS9aaDF6RURvPRIkNzVjNTVjODQtNjUxZC00NzA2LTgzNzQtYWE3ODk1ODIxMTYxGAAgACgAMKXhqO3TMTj1wIv8xDFA9cCL/MQxShxqeUQ2NzAwY045U1pWSUx0Q3gxL0FzajN2T3M9WiAiHv/7bHNYTCtxNlRtckJYM2E0K0FBYW5UZWVBTW1ZPWV/aXAOErEBCLQBEqsBChxlMThLblV3enNvVW9vREM5d1NibHh5K1RqTkk9EiQwZjE4NTU1OS00MWFlLTQ1YzQtYjE5Yi0wMjRmMjUxYzA1NjQYACAAKAAw7aWq7dMxOMKtqu3TMUDCrart0zFKHDAxZjRWdXNOZy9xbm81ZVArZEEzODNBUDYzRT1aJyIl/////wAAAAfWYVhucGMzdmtBcmpuOCt3ZUxmVlpTSVhNSnF3PWXAov1eEqoBCCASpQEKHExCVVlVY3hBVVVodUxRNW10TXJxaS9TK1JtST0SJDE1ZTY0ZTg0LTU3NzEtNDZkOS1iMGQ4LTc4ZDg2Y2U3MDM3ZhgAIAAoADCZlqrt0zE44NCL/MQxQODQi/zEMUocUzg1Y2U2cS9vREFZWVpydm0rMEhRMGNwTGljPVohIh////t4TkZpWFBhdnJPYjR3dGZuVXVGelh6cWx3L2M9ZR0v274SqgEIIRKlAQocandPQlBzR2QzV0lqUWw0OXRxc2JCZ282NW13PRIkODg2MGY2YTgtZTFkMy00M2FlLWIwMTEtOTBhNmViYjcyM2EwGAAgACgAMMe2qe3TMTjK8Yr8xDFAyvGK/MQxShxwWEU4QU4wcVRPSkVTNmFlWG9BZVZmdUZ6SDA9WiEiH////WZCdmZ5Rk9sQVY0Njk3MGw0bVMwZFVZZUdIQT1lcK/hDhKpAQh+EqQBChw3dnJEUVlnS2o5emRMUFB0Z2MweFVsYmtkVXc9EiQ5NTE4MzBkZS0xNzkzLTRmYjEtYTlmMC0zNjgyYjczNjMyNTQYACAAKAAws5mp7dMxOLSZi/zEMUC0mYv8xDFKHFllTGJ2ZnJ6ZC9sTTlpRWorZWVremhzdC9UMD1aICIe/7JkR2ZvUUFzcmZsblA3VElKMHE1blhTNDVqN0k9ZSabvAASqwEIJBKmAQocYnJtMkZuN1oxQ21zamt1RUVqSWg0dXpMcWdvPRIkNTRkNGI0NGUtZDEwYi00MzMyLTg0YzgtNGVlZGYwMDNiN2E0GAAgACgAMM75qe3TMTiYmYv8xDFAmJmL/MQxShxUeW9Gd3gyRzVuTE5tTTZuT0x4ZVl2SHd5dkU9WiIiIP///71rVmswMUVWUTlqeVRTNlgxMGhQYmx0SDBITnc9ZTkDQCASqAEIeRKjAQocNzlscHljM0djRTJrYVNpaGozSzNvZ3R1MG1BPRIkNWE0OGI5ZGUtN2Q2OS00NDdmLWIwOTEtMzhjZjNmNzk2NTRhGAAgACgAMOihi/zEMTjcpYv8xDFA3KWL/MQxShxPUXlVWWtZTVV0MVUwTndhZThRNitqZmxBRFk9Wh8iHb1jYitQR04rTmIraDk2M21sZTdPcURKWk5OUE09ZQAAAAASqAEIDxKjAQocN0JzQWNHVGV2T3JrNlFTVkVObjlIbXMyVitzPRIkYzkwODJmNDQtZTFkYy00MDg4LThiNjEtODMwMWE1OGZkMzM2GAAgACgAMNynqe3TMTjhlov8xDFA4ZaL/MQxShx6WVYxRUtXelNRU0paSm1GYjhGT3NOalh0NG89Wh8iHf5XT0k1NGxuT1p4YXNqclVPcVRrMk04T0Zka1E9ZegPjGUSqgEIIxKlAQocRG96RTRPRWsvbzBmdzdKb28zWEk4VldHdlg0PRIkZTBjNjJjYjktYTJhNy00YzViLThhNTgtYWM2MDQ0OGY4Y2Y3GAAgACgAMNSnqe3TMTjN/or8xDFAzf6K/MQxShxEcHE1NDQvcVFNbW9zbXphNnZqMGxVS0ZVMVU9WiEiH////3p6RzVIZ0pnZndKMDJFbzVteDFGOUZyVUpOZz1lMrEBWxKqAQgiEqUBChxETFFBNXM3V2dDUUxMdFdWa2JXcTJGdEpCOWc9EiQyNTM4NzVlZC0yMTY1LTQ2MDUtODMwNy02Y2MzYWFhNWZjZWIYACAAKAAw4aWq7dMxOOuHi/zEMUDrh4v8xDFKHEZ2K2xyRlNLVFZxUTcyZkRqeFAvY3owd1Vjbz1aISIf///+K3VqNElZZE5wQ1JEWmNBaEJWMGMxdkRQejVNPWVtA/0CEq8BCCwSqgEKHG8wQkdydW1sUjdlWDQrV0JBbkxLL1V6TTdMYz0SJDA0NTYzMzM5LWNkNDAtNGRkMC1hNDNmLTFmMzU2NzJhMDlkMRgAIAAoADCxmant0zE4sP+K/MQxQLD/ivzEMUocSWljNVJQSVo2M1Bxbk0vT1FtYjVGVktWdmVrPVomIiT/////AAAABFVqK1Nic3ZTcGduMFFRSlpsbjJubFNNUTQrMD1lSItkVhKoAQhLEqMBChwyeVgzWDk3OTVYc1hYOTg4YVFxOGs2cll6bWc9EiQ2NjQ4N2UwZS05N2IwLTQ0MzQtYTVjNy04Mzc5NDk3NmM4ZGIYACAAKAAwqP6o7dMxONLwivzEMUDS8Ir8xDFKHC9JMVhHRHVNdDhhVXRJUGtob1NrZXJvek1uST1aHyId93V4aUJzZW9hNDR4OFpYbXEwNFpSSE9UVklCcz1l3ZDvsBKrAQgmEqYBChxrZmU2NTh1aStDVlVoNGU4bGZOZXFGamFJd1U9EiQwYmFlZjk0NS1mNDAyLTRlYjQtOTJhZC1lNzVjZjk3ZmQ2NTIYACAAKAAw2qep7dMxONfgi/zEMUDX4Iv8xDFKHGRMdzlJOXY2ZWVPQW5qUnpTTm9hN1JNeUhWRT1aIiIg////73BnU3RURW5pS0N5djJrQldUMDVwbHI3ME02bz1l67IdNxKoAQhJEqMBChxTdmtTREllc0JiUEdlNisvVXhxL1ZCZEQ3eG89EiQzNDYzOWFhOS01ZWU4LTRmY2UtYTcwMy01MGY5YWI0ZTljMjQYACAAKAAwvN+p7dMxOJvwivzEMUCb8Ir8xDFKHHBhRHlhR3EzcFF5RzFDK2p3S0gzZDhpZjVtbz1aHyId3UduZkt6ekhVN2RkdGJPRzhERVdva0xrdHFIaz1lpIEoWhKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRjOTdlNDYyNy04YjgzLTVjZWMtOGY5Yy0xMmMzNjgwNGYwOWUYACAAKAAw7Ia57rcuOOHlu9nnL0Dh5bvZ5y9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqkBCBYSpAEKHGlreWZkSCt6TEw5emg0NVcxRTY2RGFsU2tHVT0SJDk1ZmM1NTU3LTIzYjctNDYwMi1hNjU3LTljYjMyM2NjMTZhYxgAIAAoADCm4ajt0zE4hMKL/MQxQITCi/zEMUocRjJsZmUzRHRHcTNpUXJGc1ZkMUptM2pyNklvPVogIh7/93RhSmZ3dmhaMDk5WkYwTGI5K2RmNmFyejFhST1ld3BsoxKpAQjBARKjAQocY2IrcnB3cFppNmt0dGtINm1HaXdMbXBsSkxvPRIkMjdiN2FkMzAtZmY3Mi00MzIzLWFiZDktYWM3ZmY1OGJhNWZhGAAgACgAMMWbvJ2MMjjzuPPLizJAxZu8nYwyShxKUHh4R1ArNkdwSDVncXBMbmo0TXBudnM3RHM9Wh8iHbpuR1VlS1l5UnJwRndxdzF1ZEMwUGxNdmlSU1U9ZYZ84T8SqAEIehKjAQocSWdRaVZPbTcxaDVER0ZJUmVXZnpLMlNzY3FzPRIkYzdmNjFiYzYtNjc1My00NTU5LTk4NTktZWY1YWYwMDYzYjJmGAAgACgAMOmhi/zEMTj4pYv8xDFA+KWL/MQxShxxcEo5d255cDlxZENlenJZUVhuQno1UWkrcjA9Wh8iHd5wNERDSmY0YlQvbFVSejBTY3poV0EzQVViN2s9ZQAAAAASqAEIvwESogEKHGZCSEJ1ZEl3LzVmaVI3K2p2WGkvTHJ1M085UT0SJDI3ODRjZDMxLTY5YTMtNGNkOC1hZWZlLTA0NTNjNjEyZWVlNhgAIAAoADDwk6fSizI416Km0osyQNeiptKLMkocaWJNVG1QdWNnZFY4cnFYOUZwR3dJQWF2dTR3PVoeIhw2Yi94bEtzaDdzb0MwYTlaS0ZtOXRtQWVIYkk9ZfoOCLASqwEIKRKmAQocZHYyY3BXYkVTUEMvSmtpb2JFSURaQkdTaHFFPRIkODFkZGFhYzItODg2Ni00OTZlLTgxNzYtMTEyYTdjMDAwMzg4GAAgACgAMJ3hqO3TMTi8wov8xDFAvMKL/MQxShxWMCtPTUlENnpnUEt2SU1pL29hNlhNN0lyeEE9WiIiIP////1yNFhlcFUycGhUa0VqUFFxR0t6SzlwZThua0k9ZZSARCUSqQEIwgESowEKHE9MemxUWXVaMWwySjZnenFsVW5ET1ZWQk52ST0SJGM3M2U5NTFjLWFiN2ItNDU5Yy1hZDVjLTVkYzY4YWRhYTJmMxgAIAAoADDV8vPLizI4+vXzy4syQPr188uLMkoca2x4MkpIRUxvSm1ET3pTZitJRWxUZk1qWjZVPVofIh3dZG5EczNvNlhlVDRZRjhLT2llUmdESzdENkM0PWWsCkvrEqkBCBsSpAEKHGIxSW9HNUR1QVNPRWR3eEVXZ2dHaHVjaTB3ST0SJDQxYTExMjI0LWRlMTMtNGI5OC1hY2QyLWEwNjA3NDAzYjI2NRgAIAAoADDL+ant0zE46tyK/MQxQOrcivzEMUocQi9CQmRsL1gyRkZscFJTRHRPbXBQRWpMSGM0PVogIh7//3pUbjVBeW1GTFhqd3JkZUJCdEdPZE84V2Mzdz1lIrdAqRKpAQgaEqQBChxxRlRrZVU4dVpYTFR2bmJoNExwQkNRMEtuVFk9EiQ4ZWJhNTg2NS05NThiLTRiN2QtYmFiYS0xMTk2ZjJiYTdmZmIYACAAKAAwxd+p7dMxOM7civzEMUDO3Ir8xDFKHGxHTnhnb2hkZVpjNFlsb2tOVHVVdTk3cG51MD1aICIe//92NzhMNllHK1hudHRJYWJhc1o0Z0E1SFNpanc9ZZEucTESqwEIsAESpQEKHGRWYUNTRmQ4Y0Zob3pzaXoxRW1SWGZaSEs0dz0SJGZkMzdmMTU3LTk4ODItNGNjZC1iNTFhLWM5NjQzZTkyNTQzNBgAIAAoADCOlqrt0zE4/7SL/MQxQP+0i/zEMUocdVM4V0pMSGtYa2FDcDhRZ1k5cnJTWE10b2VvPVohIh///9t2MUZoSjFxd1VSM09VKzd3aW81Rkt0WTZBeVE9ZZ7O2rsSqwEIKBKmAQocNXhhRlJIMG5ZdHpDQWRCb0h2dW4xSUtRNzJBPRIkM2MyZjE1ZjMtYzFhYi00MjgxLWExMjUtOWZmODA0N2NlMjZkGAAgACgAMNGnqe3TMTiKs4v8xDFAirOL/MQxShxVeDVEdHU3dEFxWTJieTdLQ0Y4blFaVTVnRGc9WiIiIP////tSS3Yyb1BMdVRlMXdmOVc4cFVxM2plajlsNEU9ZUM5W5USqgEIjQESpAEKHHpSNDJneTlFbDk1RVkyOUJURUF3YUlrWU1nND0SJDk4MGM2MDljLWYwNDUtNDlhZS1iZDlhLTg0MDRiYTE5NjVlOBgAIAAoADDuoYv8xDE4hqeL/MQxQIani/zEMUocT2FxaEJnNlpqNURMRWdSSlB4R2FFVzZRYkZNPVogIh7/92ttM1AwZmZqSTJDQVRiU2JpZ2VWZTZNbCtGQT1lAAAAABKpAQgZEqQBChxCa1NQSnd3QVRHWURwUzdGTFUxVWtaSjhZWTQ9EiQzNjE4MTIyNi1mNmQwLTRiYzMtYjc0OS0wYThkZWZmOGUxYWUYACAAKAAwqf6o7dMxOP+oi/zEMUD/qIv8xDFKHEx0dmpjQTFqZEJxNnh3Y1laYXU4MjR5M1c1az1aICIe//4yUTBsbll6Y3JuMk9JVU52RXJ4dktjd0dRRlk9ZXpH9/ESsAEIMhKrAQocOXhucFdYREdwOXVTRTNVNXlIeHRUVm9reWE4PRIkNGJiZmViOWItOTYyYy00ZjBhLWExYTMtMWY3MTI4NmY3YzJlGAAgACgAMOvQt8vIMTjG17fLyDFAxte3y8gxShxiU3dtb1QxWVpYVkQyaVRNSmFxWHRjTitTcnc9WiciJf////8AAAAE9zZ2NktwL1BVTk96US9zUmltSktHM1ZvWVI4QT1lAAAAADAAOAA=",
+   "version": 1
+}

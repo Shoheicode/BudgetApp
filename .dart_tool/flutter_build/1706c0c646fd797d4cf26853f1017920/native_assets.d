@@ -1,0 +1,1 @@
+ C:\\Users\\jsiri\\BudgetManagementApp\\.dart_tool\\flutter_build\\1706c0c646fd797d4cf26853f1017920\\native_assets.yaml: 
