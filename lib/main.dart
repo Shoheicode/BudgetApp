@@ -15,7 +15,9 @@ void main() async {
       options: DefaultFirebaseOptions.currentPlatform,
     );
   } else {
-    await Firebase.initializeApp( options: DefaultFirebaseOptions.currentPlatform,);
+    await Firebase.initializeApp(
+      options: DefaultFirebaseOptions.currentPlatform,
+    );
   }
   runApp(
     const ProviderScope(
@@ -31,8 +33,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-     // theme: ThemeData(useMaterial3: true),
-      title: "Buget App",
+      // theme: ThemeData(useMaterial3: true),
+      title: "Budget App",
       home: ResponsiveHandler(),
     );
   }
