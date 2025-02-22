@@ -3,15 +3,15 @@
   "packages": [
     {
       "name": "_flutterfire_internals",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/_flutterfire_internals-1.3.25",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/_flutterfire_internals-1.3.35",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
     {
       "name": "args",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.5.0",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.6.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "async",
@@ -39,19 +39,19 @@
     },
     {
       "name": "cloud_firestore",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/cloud_firestore-4.15.8",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/cloud_firestore-4.17.5",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "cloud_firestore_platform_interface",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/cloud_firestore_platform_interface-6.1.9",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/cloud_firestore_platform_interface-6.2.5",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "cloud_firestore_web",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/cloud_firestore_web-3.10.8",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/cloud_firestore_web-3.12.5",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -63,13 +63,13 @@
     },
     {
       "name": "crypto",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.3",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.6",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.4"
     },
     {
       "name": "equatable",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/equatable-2.0.5",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/equatable-2.0.7",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -81,43 +81,43 @@
     },
     {
       "name": "ffi",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.0",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.3",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "firebase_auth",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth-4.17.8",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth-4.20.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.2"
     },
     {
       "name": "firebase_auth_platform_interface",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth_platform_interface-7.1.8",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth_platform_interface-7.3.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.2"
     },
     {
       "name": "firebase_auth_web",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth_web-5.9.8",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth_web-5.12.0",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
     {
       "name": "firebase_core",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core-2.27.0",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core-2.32.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "firebase_core_platform_interface",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core_platform_interface-5.1.0",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core_platform_interface-5.4.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.2"
     },
     {
       "name": "firebase_core_web",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core_web-2.11.5",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_core_web-2.17.5",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -147,15 +147,15 @@
     },
     {
       "name": "flutter_riverpod",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_riverpod-2.5.1",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_riverpod-2.6.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "flutter_svg",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_svg-2.0.10+1",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_svg-2.0.17",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.4"
     },
     {
       "name": "flutter_test",
@@ -171,33 +171,33 @@
     },
     {
       "name": "google_fonts",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/google_fonts-6.1.0",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/google_fonts-6.2.1",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
     {
       "name": "google_identity_services_web",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/google_identity_services_web-0.3.0+2",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/google_identity_services_web-0.3.3",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.4"
     },
     {
       "name": "google_sign_in",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/google_sign_in-6.2.1",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/google_sign_in-6.2.2",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "google_sign_in_android",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/google_sign_in_android-6.1.23",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/google_sign_in_android-6.1.35",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.5"
     },
     {
       "name": "google_sign_in_ios",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/google_sign_in_ios-5.7.3",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/google_sign_in_ios-5.8.0",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.4"
     },
     {
       "name": "google_sign_in_platform_interface",
@@ -207,33 +207,27 @@
     },
     {
       "name": "google_sign_in_web",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/google_sign_in_web-0.12.3+2",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/google_sign_in_web-0.12.4+3",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "hooks_riverpod",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/hooks_riverpod-2.5.1",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/hooks_riverpod-2.6.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "http",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.2.0",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.3.0",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.4"
     },
     {
       "name": "http_parser",
       "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
-    },
-    {
-      "name": "js",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.7",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
     },
     {
       "name": "launcher_name",
@@ -267,7 +261,7 @@
     },
     {
       "name": "logger",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/logger-2.3.0",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/logger-2.5.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -297,27 +291,27 @@
     },
     {
       "name": "path_parsing",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/path_parsing-1.0.1",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/path_parsing-1.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.3"
     },
     {
       "name": "path_provider",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider-2.1.3",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider-2.1.5",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.4"
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.2.4",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.2.15",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.5"
     },
     {
       "name": "path_provider_foundation",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_foundation-2.3.2",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_foundation-2.4.1",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "path_provider_linux",
@@ -333,9 +327,9 @@
     },
     {
       "name": "path_provider_windows",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_windows-2.2.1",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_windows-2.3.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.2"
     },
     {
       "name": "petitparser",
@@ -345,7 +339,7 @@
     },
     {
       "name": "platform",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/platform-3.1.5",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/platform-3.1.6",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -357,7 +351,7 @@
     },
     {
       "name": "riverpod",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/riverpod-2.5.1",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/riverpod-2.6.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -417,39 +411,39 @@
     },
     {
       "name": "typed_data",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.2",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.4.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.5"
     },
     {
       "name": "url_launcher",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher-6.3.0",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher-6.3.1",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "url_launcher_android",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.3.2",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.3.14",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.5"
     },
     {
       "name": "url_launcher_ios",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_ios-6.2.4",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_ios-6.3.2",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "url_launcher_linux",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_linux-3.1.1",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_linux-3.2.1",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "url_launcher_macos",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_macos-3.2.0",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_macos-3.2.2",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.3"
     },
     {
       "name": "url_launcher_platform_interface",
@@ -459,15 +453,15 @@
     },
     {
       "name": "url_launcher_web",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_web-2.2.3",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_web-2.3.3",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "url_launcher_windows",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_windows-3.1.1",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_windows-3.1.4",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.4"
     },
     {
       "name": "url_strategy",
@@ -477,21 +471,21 @@
     },
     {
       "name": "vector_graphics",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics-1.1.11+1",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics-1.1.18",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.4"
     },
     {
       "name": "vector_graphics_codec",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics_codec-1.1.11+1",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics_codec-1.1.13",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.4"
     },
     {
       "name": "vector_graphics_compiler",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics_compiler-1.1.11+1",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics_compiler-1.1.16",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.4"
     },
     {
       "name": "vector_math",
@@ -507,21 +501,15 @@
     },
     {
       "name": "web",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/web-0.3.0",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/web-0.5.1",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
-    },
-    {
-      "name": "win32",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/win32-5.2.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "xdg_directories",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-1.0.4",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-1.1.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "xml",
@@ -531,9 +519,9 @@
     },
     {
       "name": "yaml",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/yaml-3.1.2",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/yaml-3.1.3",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.4"
     },
     {
       "name": "bank_management_app",
@@ -542,7 +530,7 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2025-02-22T20:42:11.648410Z",
+  "generated": "2025-02-22T20:42:59.357889Z",
   "generator": "pub",
   "generatorVersion": "3.5.3",
   "flutterRoot": "file:///C:/Users/Jason%20Irie/flutter",
