@@ -20,8 +20,10 @@ class ViewModel extends ChangeNotifier {
 
   List expensesName = [];
   List expensesAmount = [];
+  List expensesDates = [];
   List incomesName = [];
   List incomesAmount = [];
+  List incomesDates = [];
 
   //Check if Signed In
   Future<void> isLoggedIn() async {
