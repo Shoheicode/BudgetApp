@@ -57,6 +57,8 @@ class Poppins extends StatelessWidget {
 }
 
 class LineChartExample extends StatelessWidget {
+  const LineChartExample({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
