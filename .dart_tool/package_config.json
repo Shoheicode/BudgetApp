@@ -230,6 +230,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "intl",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.20.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
       "name": "launcher_name",
       "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/launcher_name-1.0.2",
       "packageUri": "lib/",
@@ -530,7 +536,7 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2025-02-26T22:42:26.326084Z",
+  "generated": "2025-02-26T23:03:41.504704Z",
   "generator": "pub",
   "generatorVersion": "3.5.3",
   "flutterRoot": "file:///C:/Users/Jason%20Irie/flutter",

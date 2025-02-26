@@ -6,6 +6,7 @@ import 'package:flutter_svg/svg.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:logger/logger.dart';
 import 'package:url_launcher/url_launcher.dart';
+import 'package:intl/intl.dart';
 
 bool isLoading = true;
 
@@ -394,22 +395,45 @@ class ExpenseViewWeb extends HookConsumerWidget {
 
             AspectRatio(
               aspectRatio: 2.0,
-              child: LineChart(LineChartData(lineBarsData: [
-                LineChartBarData(
-                    show: true,
-                    spots: [
-                      FlSpot(0, 0),
-                      FlSpot(1, 1),
-                      FlSpot(2, 2),
-                      FlSpot(3, 3),
-                      FlSpot(4, 4),
-                      FlSpot(5, 5),
-                    ],
-                    gradient: const LinearGradient(colors: [
-                      Colors.red,
-                      Colors.purple,
-                    ]))
-              ])),
+              child: LineChart(LineChartData(
+                  titlesData: FlTitlesData(
+                    leftTitles: AxisTitles(
+                      sideTitles: SideTitles(showTitles: true),
+                    ),
+                    bottomTitles: AxisTitles(
+                      sideTitles: SideTitles(
+                        showTitles: true,
+                        getTitlesWidget: (value, meta) {
+                          return SideTitleWidget(
+                            axisSide: meta.axisSide,
+                            child: Text(
+                              DateFormat.Hm().format(
+                                  DateTime.fromMillisecondsSinceEpoch(
+                                      value.toInt())),
+                              style: TextStyle(fontSize: 12),
+                            ),
+                          );
+                        },
+                        interval: 3600000, // 1 hour in milliseconds
+                      ),
+                    ),
+                  ),
+                  lineBarsData: [
+                    LineChartBarData(
+                        show: true,
+                        spots: [
+                          FlSpot(0, 0),
+                          FlSpot(1, 1),
+                          FlSpot(2, 2),
+                          FlSpot(3, 3),
+                          FlSpot(4, 4),
+                          FlSpot(5, 5),
+                        ],
+                        gradient: const LinearGradient(colors: [
+                          Colors.red,
+                          Colors.purple,
+                        ]))
+                  ])),
             )
           ],
         ),
