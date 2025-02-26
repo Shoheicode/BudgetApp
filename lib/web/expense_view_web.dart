@@ -1,5 +1,6 @@
 import 'package:bank_management_app/components.dart';
 import 'package:bank_management_app/view_model.dart';
+import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
@@ -391,7 +392,22 @@ class ExpenseViewWeb extends HookConsumerWidget {
                   ]),
             ),
 
-            // LineChartExample(),
+            AspectRatio(
+              aspectRatio: 2.0,
+              child: LineChart(LineChartData(lineBarsData: [
+                LineChartBarData(
+                    show: true,
+                    spots: [
+                      FlSpot(0, 0),
+                      FlSpot(1, 1),
+                      FlSpot(2, 2),
+                      FlSpot(3, 3),
+                      FlSpot(4, 4),
+                      FlSpot(5, 5),
+                    ],
+                    color: Colors.red)
+              ])),
+            )
           ],
         ),
       ),
