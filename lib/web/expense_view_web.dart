@@ -405,12 +405,10 @@ class ExpenseViewWeb extends HookConsumerWidget {
                       FlSpot(4, 4),
                       FlSpot(5, 5),
                     ],
-                    gradient: const LinearGradient(
-                      colors: [
+                    gradient: const LinearGradient(colors: [
                       Colors.red,
-                        Colors.purple,
-                      ]
-                    )
+                      Colors.purple,
+                    ]))
               ])),
             )
           ],
