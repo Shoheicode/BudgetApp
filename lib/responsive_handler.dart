@@ -18,7 +18,7 @@ class ResponsiveHandler extends HookConsumerWidget {
     viewModelProvider.isLoggedIn();
 
     if (viewModelProvider.isSignedIn == true) {
-      logger.d("Signed In");
+      // logger.d("Signed In");
       return LayoutBuilder(builder: (context, constraints) {
         if (constraints.maxWidth > 600) {
           return const ExpenseViewWeb();
