@@ -394,7 +394,7 @@ class ExpenseViewWeb extends HookConsumerWidget {
             ),
 
             Padding(
-              padding: EdgeInsets.only(top: 20.0),
+              padding: EdgeInsets.symmetric(horizontal: 80.0, vertical: 80.0),
               child: AspectRatio(
                 aspectRatio: 2.0,
                 child: LineChart(LineChartData(
@@ -413,7 +413,23 @@ class ExpenseViewWeb extends HookConsumerWidget {
                         axisNameWidget: Text("Time"),
                         sideTitles: SideTitles(
                           showTitles: true, // 1 hour in milliseconds
-                          interval: 1.0,
+                          reservedSize: 30,
+                          interval: 24 *
+                              60 *
+                              60 *
+                              1000, // Approx. 1 month in milliseconds
+                          getTitlesWidget: (value, meta) {
+                            return SideTitleWidget(
+                              axisSide: meta.axisSide,
+                              space: 8,
+                              child: Text(
+                                DateFormat('MMM d').format(
+                                    DateTime.fromMillisecondsSinceEpoch(
+                                        value.toInt())),
+                                style: TextStyle(fontSize: 8),
+                              ),
+                            );
+                          },
                         ),
                       ),
                     ),
@@ -421,12 +437,12 @@ class ExpenseViewWeb extends HookConsumerWidget {
                       LineChartBarData(
                           show: true,
                           spots: [
-                            FlSpot(0, 0),
-                            FlSpot(1, 1),
-                            FlSpot(2, 2),
-                            FlSpot(3, 3),
-                            FlSpot(4, 4),
-                            FlSpot(5, 5),
+                            FlSpot(0 * 30 * 24 * 60 * 1000, 0),
+                            FlSpot(20 * 30 * 24 * 60 * 1000, 1),
+                            FlSpot(30 * 30 * 24 * 60 * 1000, 2),
+                            FlSpot(40 * 30 * 24 * 60 * 1000, 3),
+                            FlSpot(50 * 30 * 24 * 60 * 1000, 4),
+                            FlSpot(60 * 30 * 24 * 60 * 1000, 5),
                           ],
                           gradient: const LinearGradient(colors: [
                             Colors.red,
