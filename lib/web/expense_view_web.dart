@@ -436,14 +436,14 @@ class ExpenseViewWeb extends HookConsumerWidget {
                     lineBarsData: [
                       LineChartBarData(
                           show: true,
-                          spots: [
-                            FlSpot(0 * 30 * 24 * 60 * 1000, 0),
-                            FlSpot(20 * 30 * 24 * 60 * 1000, 1),
-                            FlSpot(30 * 30 * 24 * 60 * 1000, 2),
-                            FlSpot(40 * 30 * 24 * 60 * 1000, 3),
-                            FlSpot(50 * 30 * 24 * 60 * 1000, 4),
-                            FlSpot(60 * 30 * 24 * 60 * 1000, 5),
-                          ],
+                          spots: viewModelProvider.expensePoints,
+                          gradient: const LinearGradient(colors: [
+                            Colors.red,
+                            Colors.purple,
+                          ])),
+                      LineChartBarData(
+                          show: true,
+                          spots: viewModelProvider.incomePoints,
                           gradient: const LinearGradient(colors: [
                             Colors.red,
                             Colors.purple,

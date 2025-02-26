@@ -1,6 +1,7 @@
 import 'package:bank_management_app/components.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:google_sign_in/google_sign_in.dart';
@@ -24,6 +25,8 @@ class ViewModel extends ChangeNotifier {
   List incomesName = [];
   List incomesAmount = [];
   List incomesDates = [];
+  List<FlSpot> expensePoints = [];
+  List<FlSpot> incomePoints = [];
 
   //Check if Signed In
   Future<void> isLoggedIn() async {
@@ -281,6 +284,9 @@ class ViewModel extends ChangeNotifier {
         expensesName.add(expense.data()['name']);
         expensesAmount.add(expense.data()['amount']);
         expensesDates.add(expense.data()['createdAt']);
+        expensePoints.add(FlSpot(
+            expense.data()['createdAt'].toDate().millisecondsSinceEpoch,
+            double.parse(expense.data()['amount'])));
         notifyListeners();
       }
     }
@@ -297,8 +303,9 @@ class ViewModel extends ChangeNotifier {
       for (var expense in snapshot.docs) {
         incomesName.add(expense.data()['name']);
         incomesAmount.add(expense.data()['amount']);
-        incomesDates
-            .add(expense.data()['createdAt'].toDate().millisecondsSinceEpoch);
+        incomePoints.add(FlSpot(
+            expense.data()['createdAt'].toDate().millisecondsSinceEpoch,
+            double.parse(expense.data()['amount'])));
         notifyListeners();
       }
     }
