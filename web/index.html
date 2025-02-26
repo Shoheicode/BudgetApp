@@ -43,17 +43,19 @@
 <body>
   <script>
     window.addEventListener('load', function(ev) {
-      FlutterLoader.load({
-            serviceWorker: {
-                serviceWorkerVersion: "{{flutter_service_worker_version}}",
-            },
-        }).then((engineInitializer) => {
-            engineInitializer.initializeEngine().then((appRunner) => {
-                appRunner.runApp();
-            });
-        }).catch((error) => {
-            console.error("Flutter failed to load:", error);
-        });
+      window.addEventListener('load', function(ev) {
+      // Download main.dart.js
+      _flutter.loader.loadEntrypoint({
+        serviceWorker: {
+          serviceWorkerVersion:  "{{flutter_service_worker_version}}",
+        },
+        onEntrypointLoaded: function(engineInitializer) {
+          engineInitializer.initializeEngine().then(function(appRunner) {
+            appRunner.runApp();
+          });
+        }
+      });
+    });
     });
   </script>
 </body>
