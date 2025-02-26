@@ -123,9 +123,9 @@
     },
     {
       "name": "fl_chart",
-      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/fl_chart-0.70.2",
+      "rootUri": "file:///C:/Users/Jason%20Irie/AppData/Local/Pub/Cache/hosted/pub.dev/fl_chart-0.63.0",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.0"
     },
     {
       "name": "flutter",
@@ -530,7 +530,7 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2025-02-26T02:48:55.221654Z",
+  "generated": "2025-02-26T02:55:01.091067Z",
   "generator": "pub",
   "generatorVersion": "3.5.3",
   "flutterRoot": "file:///C:/Users/Jason%20Irie/flutter",
