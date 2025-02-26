@@ -398,9 +398,11 @@ class ExpenseViewWeb extends HookConsumerWidget {
               child: LineChart(LineChartData(
                   titlesData: FlTitlesData(
                     leftTitles: AxisTitles(
+                      axisNameWidget: Text("Cost"),
                       sideTitles: SideTitles(showTitles: true),
                     ),
                     bottomTitles: AxisTitles(
+                      axisNameWidget: Text("Time"),
                       sideTitles: SideTitles(
                         showTitles: true,
                         getTitlesWidget: (value, meta) {
