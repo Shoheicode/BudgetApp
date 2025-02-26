@@ -89,9 +89,7 @@ class LineChartExample extends StatelessWidget {
                 ],
                 isCurved: true,
                 barWidth: 4,
-                color: Colors.blue,
-                belowBarData: BarAreaData(
-                    show: true, color: Colors.blue.withOpacity(0.3)),
+                belowBarData: BarAreaData(show: true),
               ),
             ],
           ),
