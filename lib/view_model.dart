@@ -280,7 +280,7 @@ class ViewModel extends ChangeNotifier {
       for (var expense in snapshot.docs) {
         expensesName.add(expense.data()['name']);
         expensesAmount.add(expense.data()['amount']);
-        // expensesDates.add(expense.data()['createdAt']);
+        expensesDates.add(expense.data()['createdAt']);
         notifyListeners();
       }
     }
@@ -297,7 +297,7 @@ class ViewModel extends ChangeNotifier {
       for (var expense in snapshot.docs) {
         incomesName.add(expense.data()['name']);
         incomesAmount.add(expense.data()['amount']);
-        // incomesDates.add(expense.data()['createdAt']);
+        incomesDates.add(expense.data()['createdAt']);
         notifyListeners();
       }
     }
