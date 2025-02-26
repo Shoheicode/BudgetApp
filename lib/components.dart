@@ -61,15 +61,6 @@ class LineChartExample extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    List<FlSpot> spots = [
-      FlSpot(0, 1),
-      FlSpot(1, 3),
-      FlSpot(2, 2),
-      FlSpot(3, 4),
-      FlSpot(4, 3),
-      FlSpot(5, 5),
-    ];
-
     return Container(
       height: 300, // Ensure it has a defined height
       width: double.infinity, // Use full width
@@ -86,7 +77,14 @@ class LineChartExample extends StatelessWidget {
           ),
           lineBarsData: [
             LineChartBarData(
-              spots: spots,
+              spots: [
+                FlSpot(0, 1),
+                FlSpot(1, 3),
+                FlSpot(2, 2),
+                FlSpot(3, 4),
+                FlSpot(4, 3),
+                FlSpot(5, 5),
+              ],
               isCurved: true,
               barWidth: 4,
               belowBarData: BarAreaData(show: true),
