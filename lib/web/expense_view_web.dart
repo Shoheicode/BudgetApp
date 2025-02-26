@@ -445,8 +445,8 @@ class ExpenseViewWeb extends HookConsumerWidget {
                           show: true,
                           spots: viewModelProvider.incomePoints,
                           gradient: const LinearGradient(colors: [
-                            Colors.red,
-                            Colors.purple,
+                            Colors.green,
+                            Colors.blue,
                           ]))
                     ])),
               ),
