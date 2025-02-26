@@ -393,50 +393,48 @@ class ExpenseViewWeb extends HookConsumerWidget {
                   ]),
             ),
 
-            AspectRatio(
-              aspectRatio: 2.0,
-              child: LineChart(LineChartData(
-                  titlesData: FlTitlesData(
-                    leftTitles: AxisTitles(
-                      axisNameWidget: Text("Cost"),
-                      sideTitles: SideTitles(showTitles: true),
-                    ),
-                    bottomTitles: AxisTitles(
-                      axisNameWidget: Text("Time"),
-                      sideTitles: SideTitles(
-                        showTitles: true,
-                        getTitlesWidget: (value, meta) {
-                          return SideTitleWidget(
-                            axisSide: meta.axisSide,
-                            child: Text(
-                              DateFormat.Hm().format(
-                                  DateTime.fromMillisecondsSinceEpoch(
-                                      value.toInt())),
-                              style: TextStyle(fontSize: 12),
-                            ),
-                          );
-                        },
-                        interval: 3600000, // 1 hour in milliseconds
+            Padding(
+              padding: EdgeInsets.only(top: 20.0),
+              child: AspectRatio(
+                aspectRatio: 2.0,
+                child: LineChart(LineChartData(
+                    titlesData: FlTitlesData(
+                      leftTitles: AxisTitles(
+                        axisNameWidget: Text("Cost"),
+                        sideTitles: SideTitles(showTitles: true, interval: 1),
+                      ),
+                      topTitles: AxisTitles(
+                        sideTitles: SideTitles(showTitles: false),
+                      ),
+                      rightTitles: AxisTitles(
+                        sideTitles: SideTitles(showTitles: false),
+                      ),
+                      bottomTitles: AxisTitles(
+                        axisNameWidget: Text("Time"),
+                        sideTitles: SideTitles(
+                          showTitles: true, // 1 hour in milliseconds
+                          interval: 1.0,
+                        ),
                       ),
                     ),
-                  ),
-                  lineBarsData: [
-                    LineChartBarData(
-                        show: true,
-                        spots: [
-                          FlSpot(0, 0),
-                          FlSpot(1, 1),
-                          FlSpot(2, 2),
-                          FlSpot(3, 3),
-                          FlSpot(4, 4),
-                          FlSpot(5, 5),
-                        ],
-                        gradient: const LinearGradient(colors: [
-                          Colors.red,
-                          Colors.purple,
-                        ]))
-                  ])),
-            )
+                    lineBarsData: [
+                      LineChartBarData(
+                          show: true,
+                          spots: [
+                            FlSpot(0, 0),
+                            FlSpot(1, 1),
+                            FlSpot(2, 2),
+                            FlSpot(3, 3),
+                            FlSpot(4, 4),
+                            FlSpot(5, 5),
+                          ],
+                          gradient: const LinearGradient(colors: [
+                            Colors.red,
+                            Colors.purple,
+                          ]))
+                    ])),
+              ),
+            ),
           ],
         ),
       ),
