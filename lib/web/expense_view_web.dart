@@ -3,6 +3,7 @@ import 'package:bank_management_app/view_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
+import 'package:logger/logger.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 bool isLoading = true;
@@ -20,6 +21,9 @@ class ExpenseViewWeb extends HookConsumerWidget {
       viewModelProvider.incomeStream();
       isLoading = false;
     }
+
+    var logger = Logger();
+    logger.d("RAN EVERYTHING");
 
     int totalExpense = 0;
     int totalIncome = 0;

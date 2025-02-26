@@ -297,7 +297,7 @@ class ViewModel extends ChangeNotifier {
       for (var expense in snapshot.docs) {
         incomesName.add(expense.data()['name']);
         incomesAmount.add(expense.data()['amount']);
-        incomesDates.add(expense.data()['createdAt']);
+        // incomesDates.add(expense.data()['createdAt']);
         notifyListeners();
       }
     }
