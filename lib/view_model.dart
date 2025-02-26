@@ -270,6 +270,7 @@ class ViewModel extends ChangeNotifier {
   }
 
   void expensesStream() async {
+    logger.d("GETTING EXPENSES");
     await for (var snapshot in userCollection
         .doc(_auth.currentUser!.uid)
         .collection("expenses")
@@ -279,13 +280,14 @@ class ViewModel extends ChangeNotifier {
       for (var expense in snapshot.docs) {
         expensesName.add(expense.data()['name']);
         expensesAmount.add(expense.data()['amount']);
-        expensesDates.add(expense.data()['createdAt']);
+        // expensesDates.add(expense.data()['createdAt']);
         notifyListeners();
       }
     }
   }
 
   void incomeStream() async {
+    logger.d("GETTING INCOME");
     await for (var snapshot in userCollection
         .doc(_auth.currentUser!.uid)
         .collection("incomes")
