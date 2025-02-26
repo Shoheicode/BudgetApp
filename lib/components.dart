@@ -61,38 +61,35 @@ class LineChartExample extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(title: Text("Flutter Line Chart")),
-      body: Padding(
-        padding: const EdgeInsets.all(20.0),
-        child: LineChart(
-          LineChartData(
-            gridData: FlGridData(show: true),
-            titlesData: FlTitlesData(
-              leftTitles: AxisTitles(sideTitles: SideTitles(showTitles: true)),
-              bottomTitles:
-                  AxisTitles(sideTitles: SideTitles(showTitles: true)),
-            ),
-            borderData: FlBorderData(
-              show: true,
-              border: Border.all(color: Colors.black, width: 1),
-            ),
-            lineBarsData: [
-              LineChartBarData(
-                spots: [
-                  FlSpot(0, 1),
-                  FlSpot(1, 3),
-                  FlSpot(2, 2),
-                  FlSpot(3, 4),
-                  FlSpot(4, 3),
-                  FlSpot(5, 5),
-                ],
-                isCurved: true,
-                barWidth: 4,
-                belowBarData: BarAreaData(show: true),
-              ),
-            ],
+    return Container(
+      height: 300, // Ensure it has a defined height
+      width: double.infinity, // Use full width
+      child: LineChart(
+        LineChartData(
+          gridData: FlGridData(show: true),
+          titlesData: FlTitlesData(
+            leftTitles: AxisTitles(sideTitles: SideTitles(showTitles: true)),
+            bottomTitles: AxisTitles(sideTitles: SideTitles(showTitles: true)),
           ),
+          borderData: FlBorderData(
+            show: true,
+            border: Border.all(color: Colors.black, width: 1),
+          ),
+          lineBarsData: [
+            LineChartBarData(
+              spots: [
+                FlSpot(0, 1),
+                FlSpot(1, 3),
+                FlSpot(2, 2),
+                FlSpot(3, 4),
+                FlSpot(4, 3),
+                FlSpot(5, 5),
+              ],
+              isCurved: true,
+              barWidth: 4,
+              belowBarData: BarAreaData(show: true),
+            ),
+          ],
         ),
       ),
     );
