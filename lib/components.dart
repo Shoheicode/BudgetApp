@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 
 class OpenSans extends StatelessWidget {
@@ -51,46 +50,6 @@ class Poppins extends StatelessWidget {
         fontSize: size,
         color: color ?? Colors.black,
         fontWeight: fontWeight ?? FontWeight.normal,
-      ),
-    );
-  }
-}
-
-class LineChartExample extends StatelessWidget {
-  const LineChartExample({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      height: 300, // Ensure it has a defined height
-      width: double.infinity, // Use full width
-      child: LineChart(
-        LineChartData(
-          gridData: FlGridData(show: true),
-          titlesData: FlTitlesData(
-            leftTitles: AxisTitles(sideTitles: SideTitles(showTitles: true)),
-            bottomTitles: AxisTitles(sideTitles: SideTitles(showTitles: true)),
-          ),
-          borderData: FlBorderData(
-            show: true,
-            border: Border.all(color: Colors.black, width: 1),
-          ),
-          lineBarsData: [
-            LineChartBarData(
-              spots: [
-                FlSpot(0, 1),
-                FlSpot(1, 3),
-                FlSpot(2, 2),
-                FlSpot(3, 4),
-                FlSpot(4, 3),
-                FlSpot(5, 5),
-              ],
-              isCurved: true,
-              barWidth: 4,
-              belowBarData: BarAreaData(show: true),
-            ),
-          ],
-        ),
       ),
     );
   }
