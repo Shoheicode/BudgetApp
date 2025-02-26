@@ -6,16 +6,19 @@ import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 import 'view_model.dart';
 import 'web/login_view_web.dart';
+import 'package:logger/logger.dart';
 
 class ResponsiveHandler extends HookConsumerWidget {
   const ResponsiveHandler({super.key});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
+    var logger = Logger();
     final viewModelProvider = ref.watch(viewModel);
     viewModelProvider.isLoggedIn();
 
     if (viewModelProvider.isSignedIn == true) {
+      logger.d("Signed In");
       return LayoutBuilder(builder: (context, constraints) {
         if (constraints.maxWidth > 600) {
           return const ExpenseViewWeb();
