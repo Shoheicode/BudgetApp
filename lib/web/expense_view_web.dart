@@ -384,9 +384,9 @@ class ExpenseViewWeb extends HookConsumerWidget {
                         )
                       ]),
                     ),
-                    LineChartExample(),
                   ]),
             ),
+            LineChartExample(),
           ],
         ),
       ),
