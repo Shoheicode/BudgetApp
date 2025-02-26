@@ -398,10 +398,26 @@ class ExpenseViewWeb extends HookConsumerWidget {
               child: AspectRatio(
                 aspectRatio: 2.0,
                 child: LineChart(LineChartData(
+                    minY: 0,
+                    maxY: 150,
                     titlesData: FlTitlesData(
                       leftTitles: AxisTitles(
                         axisNameWidget: Text("Cost"),
-                        sideTitles: SideTitles(showTitles: true, interval: 1),
+                        sideTitles: SideTitles(
+                          showTitles: true,
+                          interval: 10,
+                          reservedSize: 30,
+                          getTitlesWidget: (value, meta) {
+                            return SideTitleWidget(
+                              axisSide: meta.axisSide,
+                              space: 8,
+                              child: Text(
+                                value.toInt().toString(),
+                                style: TextStyle(fontSize: 8),
+                              ),
+                            );
+                          },
+                        ),
                       ),
                       topTitles: AxisTitles(
                         sideTitles: SideTitles(showTitles: false),
