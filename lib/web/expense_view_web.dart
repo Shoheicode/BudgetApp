@@ -451,6 +451,79 @@ class ExpenseViewWeb extends HookConsumerWidget {
                     ])),
               ),
             ),
+
+            Padding(
+              padding: EdgeInsets.symmetric(horizontal: 80.0, vertical: 80.0),
+              child: AspectRatio(
+                aspectRatio: 2.0,
+                child: LineChart(LineChartData(
+                    titlesData: FlTitlesData(
+                      leftTitles: AxisTitles(
+                        axisNameWidget: Text("Cost"),
+                        sideTitles: SideTitles(showTitles: true, interval: 1),
+                      ),
+                      topTitles: AxisTitles(
+                        sideTitles: SideTitles(showTitles: false),
+                      ),
+                      rightTitles: AxisTitles(
+                        sideTitles: SideTitles(showTitles: false),
+                      ),
+                      bottomTitles: AxisTitles(
+                        axisNameWidget: Text("Time"),
+                        sideTitles: SideTitles(
+                          showTitles: true, // 1 hour in milliseconds
+                          reservedSize: 30,
+                          interval: 24 *
+                              60 *
+                              60 *
+                              1000, // Approx. 1 month in milliseconds
+                          getTitlesWidget: (value, meta) {
+                            return SideTitleWidget(
+                              axisSide: meta.axisSide,
+                              space: 8,
+                              child: Text(
+                                DateFormat('MMM d').format(
+                                    DateTime.fromMillisecondsSinceEpoch(
+                                        value.toInt())),
+                                style: TextStyle(fontSize: 8),
+                              ),
+                            );
+                          },
+                        ),
+                      ),
+                    ),
+                    lineBarsData: [
+                      LineChartBarData(
+                          show: true,
+                          spots: [
+                            FlSpot(0 * 30 * 24 * 60 * 1000, 0),
+                            FlSpot(20 * 30 * 24 * 60 * 1000, 1),
+                            FlSpot(30 * 30 * 24 * 60 * 1000, 2),
+                            FlSpot(40 * 30 * 24 * 60 * 1000, 3),
+                            FlSpot(50 * 30 * 24 * 60 * 1000, 4),
+                            FlSpot(60 * 30 * 24 * 60 * 1000, 5),
+                          ],
+                          gradient: const LinearGradient(colors: [
+                            Colors.red,
+                            Colors.purple,
+                          ])),
+                      LineChartBarData(
+                          show: true,
+                          spots: [
+                            FlSpot(0 * 30 * 24 * 60 * 1000, 5),
+                            FlSpot(20 * 30 * 24 * 60 * 1000, 4),
+                            FlSpot(30 * 30 * 24 * 60 * 1000, 3),
+                            FlSpot(40 * 30 * 24 * 60 * 1000, 2),
+                            FlSpot(50 * 30 * 24 * 60 * 1000, 1),
+                            FlSpot(60 * 30 * 24 * 60 * 1000, 0),
+                          ],
+                          gradient: const LinearGradient(colors: [
+                            Colors.purple,
+                            Colors.red,
+                          ]))
+                    ])),
+              ),
+            ),
           ],
         ),
       ),
